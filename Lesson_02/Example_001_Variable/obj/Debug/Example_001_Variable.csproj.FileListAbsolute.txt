@@ -1,0 +1,7 @@
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_02\Example_001_Variable\bin\Debug\Example_001_Variable.exe.config
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_02\Example_001_Variable\bin\Debug\Example_001_Variable.exe
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_02\Example_001_Variable\bin\Debug\Example_001_Variable.pdb
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_02\Example_001_Variable\obj\Debug\Example_001_Variable.csprojAssemblyReference.cache
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_02\Example_001_Variable\obj\Debug\Example_001_Variable.csproj.CoreCompileInputs.cache
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_02\Example_001_Variable\obj\Debug\Example_001_Variable.exe
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_02\Example_001_Variable\obj\Debug\Example_001_Variable.pdb

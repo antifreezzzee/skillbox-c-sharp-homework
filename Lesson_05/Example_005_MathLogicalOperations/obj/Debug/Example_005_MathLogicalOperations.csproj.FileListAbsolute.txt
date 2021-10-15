@@ -1,0 +1,7 @@
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_05\Example_005_MathLogicalOperations\bin\Debug\Example_005_MathLogicalOperations.exe.config
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_05\Example_005_MathLogicalOperations\bin\Debug\Example_005_MathLogicalOperations.exe
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_05\Example_005_MathLogicalOperations\bin\Debug\Example_005_MathLogicalOperations.pdb
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_05\Example_005_MathLogicalOperations\obj\Debug\Example_005_MathLogicalOperations.csprojAssemblyReference.cache
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_05\Example_005_MathLogicalOperations\obj\Debug\Example_005_MathLogicalOperations.csproj.CoreCompileInputs.cache
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_05\Example_005_MathLogicalOperations\obj\Debug\Example_005_MathLogicalOperations.exe
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_05\Example_005_MathLogicalOperations\obj\Debug\Example_005_MathLogicalOperations.pdb

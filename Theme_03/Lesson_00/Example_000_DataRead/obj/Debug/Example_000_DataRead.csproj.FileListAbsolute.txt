@@ -1,0 +1,7 @@
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_00\Example_000_DataRead\bin\Debug\Example_000_DataRead.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_00\Example_000_DataRead\bin\Debug\Example_000_DataRead.exe
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_00\Example_000_DataRead\bin\Debug\Example_000_DataRead.pdb
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_00\Example_000_DataRead\obj\Debug\Example_000_DataRead.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_00\Example_000_DataRead\obj\Debug\Example_000_DataRead.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_00\Example_000_DataRead\obj\Debug\Example_000_DataRead.exe
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_00\Example_000_DataRead\obj\Debug\Example_000_DataRead.pdb

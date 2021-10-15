@@ -1,0 +1,7 @@
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_00\Example_001_Random\bin\Debug\Example_001_Random.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_00\Example_001_Random\bin\Debug\Example_001_Random.exe
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_00\Example_001_Random\bin\Debug\Example_001_Random.pdb
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_00\Example_001_Random\obj\Debug\Example_001_Random.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_00\Example_001_Random\obj\Debug\Example_001_Random.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_00\Example_001_Random\obj\Debug\Example_001_Random.exe
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_00\Example_001_Random\obj\Debug\Example_001_Random.pdb

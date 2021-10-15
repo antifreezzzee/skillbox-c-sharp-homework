@@ -1,0 +1,6 @@
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_06\Example_001_WhileLoop\bin\Debug\Example_001_WhileLoop.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_06\Example_001_WhileLoop\bin\Debug\Example_001_WhileLoop.exe
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_06\Example_001_WhileLoop\bin\Debug\Example_001_WhileLoop.pdb
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_06\Example_001_WhileLoop\obj\Debug\Example_001_WhileLoop.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_06\Example_001_WhileLoop\obj\Debug\Example_001_WhileLoop.exe
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_06\Example_001_WhileLoop\obj\Debug\Example_001_WhileLoop.pdb

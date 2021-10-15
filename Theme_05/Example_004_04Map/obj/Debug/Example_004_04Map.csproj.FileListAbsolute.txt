@@ -1,0 +1,7 @@
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_04Map\bin\Debug\Example_004_04Map.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_04Map\bin\Debug\Example_004_04Map.exe
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_04Map\bin\Debug\Example_004_04Map.pdb
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_04Map\obj\Debug\Example_004_04Map.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_04Map\obj\Debug\Example_004_04Map.exe
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_04Map\obj\Debug\Example_004_04Map.pdb
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_04Map\obj\Debug\Example_004_04Map.csprojAssemblyReference.cache

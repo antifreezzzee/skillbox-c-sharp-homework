@@ -1,0 +1,14 @@
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_03\Example_001_FormattedOutput\bin\Debug\Example_001_FormattedOutput.exe.config
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_03\Example_001_FormattedOutput\bin\Debug\Example_001_FormattedOutput.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_03\Example_001_FormattedOutput\bin\Debug\Example_001_FormattedOutput.pdb
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_03\Example_001_FormattedOutput\obj\Debug\Example_001_FormattedOutput.csprojAssemblyReference.cache
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_03\Example_001_FormattedOutput\obj\Debug\Example_001_FormattedOutput.csproj.CoreCompileInputs.cache
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_03\Example_001_FormattedOutput\obj\Debug\Example_001_FormattedOutput.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_03\Example_001_FormattedOutput\obj\Debug\Example_001_FormattedOutput.pdb
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_001_FormattedOutput\bin\Debug\Example_001_FormattedOutput.exe.config
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_001_FormattedOutput\bin\Debug\Example_001_FormattedOutput.exe
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_001_FormattedOutput\bin\Debug\Example_001_FormattedOutput.pdb
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_001_FormattedOutput\obj\Debug\Example_001_FormattedOutput.csprojAssemblyReference.cache
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_001_FormattedOutput\obj\Debug\Example_001_FormattedOutput.csproj.CoreCompileInputs.cache
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_001_FormattedOutput\obj\Debug\Example_001_FormattedOutput.exe
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_001_FormattedOutput\obj\Debug\Example_001_FormattedOutput.pdb

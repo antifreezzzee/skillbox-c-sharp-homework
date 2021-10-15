@@ -1,0 +1,6 @@
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_03Enumerate\obj\Debug\Example_004_03Enumerate.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_03Enumerate\bin\Debug\Example_004_03Enumerate.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_03Enumerate\bin\Debug\Example_004_03Enumerate.exe
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_03Enumerate\bin\Debug\Example_004_03Enumerate.pdb
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_03Enumerate\obj\Debug\Example_004_03Enumerate.exe
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_03Enumerate\obj\Debug\Example_004_03Enumerate.pdb

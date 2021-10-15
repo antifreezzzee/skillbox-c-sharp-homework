@@ -1,0 +1,7 @@
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_02\Example_001_TernaryOperator\bin\Debug\Example_001_TernaryOperator.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_02\Example_001_TernaryOperator\bin\Debug\Example_001_TernaryOperator.exe
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_02\Example_001_TernaryOperator\bin\Debug\Example_001_TernaryOperator.pdb
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_02\Example_001_TernaryOperator\obj\Debug\Example_001_TernaryOperator.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_02\Example_001_TernaryOperator\obj\Debug\Example_001_TernaryOperator.exe
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_02\Example_001_TernaryOperator\obj\Debug\Example_001_TernaryOperator.pdb
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_02\Example_001_TernaryOperator\obj\Debug\Example_001_TernaryOperator.csprojAssemblyReference.cache

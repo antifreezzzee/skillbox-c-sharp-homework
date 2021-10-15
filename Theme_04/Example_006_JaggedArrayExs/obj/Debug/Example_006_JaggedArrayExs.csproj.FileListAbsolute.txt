@@ -1,0 +1,6 @@
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_006_JaggedArrayExs\bin\Debug\Example_006_JaggedArrayExs.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_006_JaggedArrayExs\bin\Debug\Example_006_JaggedArrayExs.exe
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_006_JaggedArrayExs\bin\Debug\Example_006_JaggedArrayExs.pdb
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_006_JaggedArrayExs\obj\Debug\Example_006_JaggedArrayExs.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_006_JaggedArrayExs\obj\Debug\Example_006_JaggedArrayExs.exe
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_006_JaggedArrayExs\obj\Debug\Example_006_JaggedArrayExs.pdb

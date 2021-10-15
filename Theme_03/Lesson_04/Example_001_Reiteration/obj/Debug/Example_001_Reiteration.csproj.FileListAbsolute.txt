@@ -1,0 +1,7 @@
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_04\Example_001_Reiteration\bin\Debug\Example_001_Reiteration.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_04\Example_001_Reiteration\bin\Debug\Example_001_Reiteration.exe
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_04\Example_001_Reiteration\bin\Debug\Example_001_Reiteration.pdb
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_04\Example_001_Reiteration\obj\Debug\Example_001_Reiteration.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_04\Example_001_Reiteration\obj\Debug\Example_001_Reiteration.exe
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_04\Example_001_Reiteration\obj\Debug\Example_001_Reiteration.pdb
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_04\Example_001_Reiteration\obj\Debug\Example_001_Reiteration.csprojAssemblyReference.cache

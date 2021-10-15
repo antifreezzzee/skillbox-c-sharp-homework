@@ -1,0 +1,7 @@
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_001_Intro\bin\Debug\Example_001_Intro.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_001_Intro\bin\Debug\Example_001_Intro.exe
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_001_Intro\bin\Debug\Example_001_Intro.pdb
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_001_Intro\obj\Debug\Example_001_Intro.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_001_Intro\obj\Debug\Example_001_Intro.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_001_Intro\obj\Debug\Example_001_Intro.exe
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_001_Intro\obj\Debug\Example_001_Intro.pdb

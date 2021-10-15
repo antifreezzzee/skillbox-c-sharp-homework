@@ -1,0 +1,7 @@
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_01\Example_002_IfElse\bin\Debug\Example_002_If.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_01\Example_002_IfElse\bin\Debug\Example_002_If.exe
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_01\Example_002_IfElse\bin\Debug\Example_002_If.pdb
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_01\Example_002_IfElse\obj\Debug\Example_002_If.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_01\Example_002_IfElse\obj\Debug\Example_002_If.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_01\Example_002_IfElse\obj\Debug\Example_002_If.exe
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_01\Example_002_IfElse\obj\Debug\Example_002_If.pdb

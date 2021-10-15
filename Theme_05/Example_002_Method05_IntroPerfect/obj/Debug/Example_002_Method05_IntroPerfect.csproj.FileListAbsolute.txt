@@ -1,0 +1,6 @@
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_002_Method05_IntroPerfect\bin\Debug\Example_002_Method05_IntroPerfect.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_002_Method05_IntroPerfect\bin\Debug\Example_002_Method05_IntroPerfect.exe
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_002_Method05_IntroPerfect\bin\Debug\Example_002_Method05_IntroPerfect.pdb
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_002_Method05_IntroPerfect\obj\Debug\Example_002_Method05_IntroPerfect.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_002_Method05_IntroPerfect\obj\Debug\Example_002_Method05_IntroPerfect.exe
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_002_Method05_IntroPerfect\obj\Debug\Example_002_Method05_IntroPerfect.pdb

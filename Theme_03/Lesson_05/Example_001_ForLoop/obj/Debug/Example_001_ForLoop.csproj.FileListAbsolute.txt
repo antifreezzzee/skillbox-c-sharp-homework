@@ -1,0 +1,7 @@
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_05\Example_001_ForLoop\bin\Debug\Example_001_ForLoop.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_05\Example_001_ForLoop\bin\Debug\Example_001_ForLoop.exe
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_05\Example_001_ForLoop\bin\Debug\Example_001_ForLoop.pdb
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_05\Example_001_ForLoop\obj\Debug\Example_001_ForLoop.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_05\Example_001_ForLoop\obj\Debug\Example_001_ForLoop.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_05\Example_001_ForLoop\obj\Debug\Example_001_ForLoop.exe
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_05\Example_001_ForLoop\obj\Debug\Example_001_ForLoop.pdb

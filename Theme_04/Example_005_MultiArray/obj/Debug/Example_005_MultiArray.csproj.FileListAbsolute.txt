@@ -1,0 +1,6 @@
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_005_MultiArray\bin\Debug\Example_005_MultiArray.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_005_MultiArray\bin\Debug\Example_005_MultiArray.exe
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_005_MultiArray\bin\Debug\Example_005_MultiArray.pdb
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_005_MultiArray\obj\Debug\Example_005_MultiArray.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_005_MultiArray\obj\Debug\Example_005_MultiArray.exe
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_005_MultiArray\obj\Debug\Example_005_MultiArray.pdb

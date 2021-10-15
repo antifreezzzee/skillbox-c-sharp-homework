@@ -1,0 +1,7 @@
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_Loops\bin\Debug\Example_004_Loops.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_Loops\bin\Debug\Example_004_Loops.exe
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_Loops\bin\Debug\Example_004_Loops.pdb
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_Loops\obj\Debug\Example_004_Loops.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_Loops\obj\Debug\Example_004_Loops.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_Loops\obj\Debug\Example_004_Loops.exe
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_Loops\obj\Debug\Example_004_Loops.pdb

@@ -1,0 +1,6 @@
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_01SequenceFib\bin\Debug\Example_004_01SequenceFib.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_01SequenceFib\bin\Debug\Example_004_01SequenceFib.exe
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_01SequenceFib\bin\Debug\Example_004_01SequenceFib.pdb
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_01SequenceFib\obj\Debug\Example_004_01SequenceFib.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_01SequenceFib\obj\Debug\Example_004_01SequenceFib.exe
+D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_01SequenceFib\obj\Debug\Example_004_01SequenceFib.pdb

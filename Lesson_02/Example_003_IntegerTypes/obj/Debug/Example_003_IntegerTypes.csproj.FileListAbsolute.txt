@@ -1,0 +1,7 @@
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_02\Example_003_IntegerTypes\bin\Debug\Example_003_IntegerTypes.exe.config
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_02\Example_003_IntegerTypes\bin\Debug\Example_003_IntegerTypes.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_02\Example_003_IntegerTypes\bin\Debug\Example_003_IntegerTypes.pdb
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_02\Example_003_IntegerTypes\obj\Debug\Example_003_IntegerTypes.csprojAssemblyReference.cache
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_02\Example_003_IntegerTypes\obj\Debug\Example_003_IntegerTypes.csproj.CoreCompileInputs.cache
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_02\Example_003_IntegerTypes\obj\Debug\Example_003_IntegerTypes.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_02\Example_003_IntegerTypes\obj\Debug\Example_003_IntegerTypes.pdb

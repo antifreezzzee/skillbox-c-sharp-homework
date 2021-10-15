@@ -1,0 +1,11 @@
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_04\Example_001_DataTypeConversion\bin\Debug\Example_001_DataTypeConversion.exe.config
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_04\Example_001_DataTypeConversion\bin\Debug\Example_001_DataTypeConversion.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_04\Example_001_DataTypeConversion\bin\Debug\Example_001_DataTypeConversion.pdb
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_04\Example_001_DataTypeConversion\obj\Debug\Example_001_DataTypeConversion.csprojAssemblyReference.cache
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_04\Example_001_DataTypeConversion\obj\Debug\Example_001_DataTypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_04\Example_001_DataTypeConversion\obj\Debug\Example_001_DataTypeConversion.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_04\Example_001_DataTypeConversion\obj\Debug\Example_001_DataTypeConversion.pdb
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_04\Example_001_DataTypeConversion\obj\Debug\Example_001_DataTypeConversion.csprojAssemblyReference.cache
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_04\Example_001_DataTypeConversion\obj\Debug\Example_001_DataTypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_04\Example_001_DataTypeConversion\obj\Debug\Example_001_DataTypeConversion.exe
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_04\Example_001_DataTypeConversion\obj\Debug\Example_001_DataTypeConversion.pdb

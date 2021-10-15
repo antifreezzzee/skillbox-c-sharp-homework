@@ -1,0 +1,6 @@
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_06\Example_007\bin\Debug\Example_007.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_06\Example_007\bin\Debug\Example_007.exe
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_06\Example_007\bin\Debug\Example_007.pdb
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_06\Example_007\obj\Debug\Example_007.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_06\Example_007\obj\Debug\Example_007.exe
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_06\Example_007\obj\Debug\Example_007.pdb

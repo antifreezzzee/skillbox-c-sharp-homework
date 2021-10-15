@@ -1,0 +1,6 @@
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_07\Example_001_DoWhileLoop\bin\Debug\Example_001_DoWhileLoop.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_07\Example_001_DoWhileLoop\bin\Debug\Example_001_DoWhileLoop.exe
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_07\Example_001_DoWhileLoop\bin\Debug\Example_001_DoWhileLoop.pdb
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_07\Example_001_DoWhileLoop\obj\Debug\Example_001_DoWhileLoop.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_07\Example_001_DoWhileLoop\obj\Debug\Example_001_DoWhileLoop.exe
+D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_07\Example_001_DoWhileLoop\obj\Debug\Example_001_DoWhileLoop.pdb

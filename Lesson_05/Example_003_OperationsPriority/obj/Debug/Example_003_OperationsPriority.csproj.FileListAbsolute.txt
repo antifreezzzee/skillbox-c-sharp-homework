@@ -1,0 +1,6 @@
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_05\Example_003_OperationsPriority\bin\Debug\Example_003_OperationsPriority.exe.config
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_05\Example_003_OperationsPriority\bin\Debug\Example_003_OperationsPriority.exe
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_05\Example_003_OperationsPriority\bin\Debug\Example_003_OperationsPriority.pdb
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_05\Example_003_OperationsPriority\obj\Debug\Example_003_OperationsPriority.csproj.CoreCompileInputs.cache
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_05\Example_003_OperationsPriority\obj\Debug\Example_003_OperationsPriority.exe
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_05\Example_003_OperationsPriority\obj\Debug\Example_003_OperationsPriority.pdb

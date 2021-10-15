@@ -1,0 +1,6 @@
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_02\Example_004_FloatPointTypes\bin\Debug\Example_004_FloatPointTypes.exe.config
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_02\Example_004_FloatPointTypes\bin\Debug\Example_004_FloatPointTypes.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_02\Example_004_FloatPointTypes\bin\Debug\Example_004_FloatPointTypes.pdb
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_02\Example_004_FloatPointTypes\obj\Debug\Example_004_FloatPointTypes.csproj.CoreCompileInputs.cache
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_02\Example_004_FloatPointTypes\obj\Debug\Example_004_FloatPointTypes.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_02\Example_004_FloatPointTypes\obj\Debug\Example_004_FloatPointTypes.pdb

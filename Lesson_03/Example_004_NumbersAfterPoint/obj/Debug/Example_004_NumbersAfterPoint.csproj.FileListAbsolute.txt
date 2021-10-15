@@ -1,0 +1,14 @@
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_03\Example_004_NumbersAfterPoint\bin\Debug\Example_004_NumbersAfterPoint.exe.config
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_03\Example_004_NumbersAfterPoint\bin\Debug\Example_004_NumbersAfterPoint.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_03\Example_004_NumbersAfterPoint\bin\Debug\Example_004_NumbersAfterPoint.pdb
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_03\Example_004_NumbersAfterPoint\obj\Debug\Example_004_NumbersAfterPoint.csproj.CoreCompileInputs.cache
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_03\Example_004_NumbersAfterPoint\obj\Debug\Example_004_NumbersAfterPoint.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_03\Example_004_NumbersAfterPoint\obj\Debug\Example_004_NumbersAfterPoint.pdb
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_03\Example_004_NumbersAfterPoint\obj\Debug\Example_004_NumbersAfterPoint.csprojAssemblyReference.cache
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_004_NumbersAfterPoint\bin\Debug\Example_004_NumbersAfterPoint.exe.config
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_004_NumbersAfterPoint\bin\Debug\Example_004_NumbersAfterPoint.exe
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_004_NumbersAfterPoint\bin\Debug\Example_004_NumbersAfterPoint.pdb
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_004_NumbersAfterPoint\obj\Debug\Example_004_NumbersAfterPoint.csprojAssemblyReference.cache
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_004_NumbersAfterPoint\obj\Debug\Example_004_NumbersAfterPoint.csproj.CoreCompileInputs.cache
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_004_NumbersAfterPoint\obj\Debug\Example_004_NumbersAfterPoint.exe
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_004_NumbersAfterPoint\obj\Debug\Example_004_NumbersAfterPoint.pdb

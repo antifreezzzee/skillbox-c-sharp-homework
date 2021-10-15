@@ -1,0 +1,12 @@
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_04\Example_003_ImplicitTypeСonversion\bin\Debug\Example_003_ImplicitTypeСonversion.exe.config
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_04\Example_003_ImplicitTypeСonversion\bin\Debug\Example_003_ImplicitTypeСonversion.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_04\Example_003_ImplicitTypeСonversion\bin\Debug\Example_003_ImplicitTypeСonversion.pdb
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_04\Example_003_ImplicitTypeСonversion\obj\Debug\Example_002_ImplicitTypeСonversion.csproj.CoreCompileInputs.cache
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_04\Example_003_ImplicitTypeСonversion\obj\Debug\Example_003_ImplicitTypeСonversion.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_04\Example_003_ImplicitTypeСonversion\obj\Debug\Example_003_ImplicitTypeСonversion.pdb
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_04\Example_003_ImplicitTypeСonversion\bin\Debug\Example_003_ImplicitTypeСonversion.exe.config
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_04\Example_003_ImplicitTypeСonversion\bin\Debug\Example_003_ImplicitTypeСonversion.exe
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_04\Example_003_ImplicitTypeСonversion\bin\Debug\Example_003_ImplicitTypeСonversion.pdb
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_04\Example_003_ImplicitTypeСonversion\obj\Debug\Example_002_ImplicitTypeСonversion.csproj.CoreCompileInputs.cache
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_04\Example_003_ImplicitTypeСonversion\obj\Debug\Example_003_ImplicitTypeСonversion.exe
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_04\Example_003_ImplicitTypeСonversion\obj\Debug\Example_003_ImplicitTypeСonversion.pdb

@@ -1,0 +1,7 @@
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_001_ArrayExs\bin\Debug\Example_001_ArrayExs.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_001_ArrayExs\bin\Debug\Example_001_ArrayExs.exe
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_001_ArrayExs\bin\Debug\Example_001_ArrayExs.pdb
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_001_ArrayExs\obj\Debug\Example_001_ArrayExs.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_001_ArrayExs\obj\Debug\Example_001_ArrayExs.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_001_ArrayExs\obj\Debug\Example_001_ArrayExs.exe
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_001_ArrayExs\obj\Debug\Example_001_ArrayExs.pdb

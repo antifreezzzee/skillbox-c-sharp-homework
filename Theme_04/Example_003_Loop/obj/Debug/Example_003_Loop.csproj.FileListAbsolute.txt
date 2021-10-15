@@ -1,0 +1,6 @@
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_003_Loop\bin\Debug\Example_003_Loop.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_003_Loop\bin\Debug\Example_003_Loop.exe
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_003_Loop\bin\Debug\Example_003_Loop.pdb
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_003_Loop\obj\Debug\Example_003_Loop.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_003_Loop\obj\Debug\Example_003_Loop.exe
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_003_Loop\obj\Debug\Example_003_Loop.pdb

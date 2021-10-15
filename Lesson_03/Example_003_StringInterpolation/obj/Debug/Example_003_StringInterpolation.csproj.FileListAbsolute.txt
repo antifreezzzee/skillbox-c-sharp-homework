@@ -1,0 +1,12 @@
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_03\Example_003_StringInterpolation\bin\Debug\Example_003_StringInterpolation.exe.config
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_03\Example_003_StringInterpolation\bin\Debug\Example_003_StringInterpolation.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_03\Example_003_StringInterpolation\bin\Debug\Example_003_StringInterpolation.pdb
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_03\Example_003_StringInterpolation\obj\Debug\Example_003_StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_03\Example_003_StringInterpolation\obj\Debug\Example_003_StringInterpolation.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_03\Example_003_StringInterpolation\obj\Debug\Example_003_StringInterpolation.pdb
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_003_StringInterpolation\bin\Debug\Example_003_StringInterpolation.exe.config
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_003_StringInterpolation\bin\Debug\Example_003_StringInterpolation.exe
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_003_StringInterpolation\bin\Debug\Example_003_StringInterpolation.pdb
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_003_StringInterpolation\obj\Debug\Example_003_StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_003_StringInterpolation\obj\Debug\Example_003_StringInterpolation.exe
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_003_StringInterpolation\obj\Debug\Example_003_StringInterpolation.pdb

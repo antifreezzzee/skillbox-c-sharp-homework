@@ -1,0 +1,7 @@
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_007_foreach\bin\Debug\Example_007_foreach.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_007_foreach\bin\Debug\Example_007_foreach.exe
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_007_foreach\bin\Debug\Example_007_foreach.pdb
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_007_foreach\obj\Debug\Example_007_foreach.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_007_foreach\obj\Debug\Example_007_foreach.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_007_foreach\obj\Debug\Example_007_foreach.exe
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_007_foreach\obj\Debug\Example_007_foreach.pdb

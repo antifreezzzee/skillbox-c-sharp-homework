@@ -1,0 +1,12 @@
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_05\Example_002_IncrementAndDecrement\bin\Debug\Example_002_IncrementAndDecrement.exe.config
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_05\Example_002_IncrementAndDecrement\bin\Debug\Example_002_IncrementAndDecrement.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_05\Example_002_IncrementAndDecrement\bin\Debug\Example_002_IncrementAndDecrement.pdb
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_05\Example_002_IncrementAndDecrement\obj\Debug\Example_002_IncrementAndDecrement.csproj.CoreCompileInputs.cache
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_05\Example_002_IncrementAndDecrement\obj\Debug\Example_002_IncrementAndDecrement.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_05\Example_002_IncrementAndDecrement\obj\Debug\Example_002_IncrementAndDecrement.pdb
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_05\Example_002_IncrementAndDecrement\bin\Debug\Example_002_IncrementAndDecrement.exe.config
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_05\Example_002_IncrementAndDecrement\bin\Debug\Example_002_IncrementAndDecrement.exe
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_05\Example_002_IncrementAndDecrement\bin\Debug\Example_002_IncrementAndDecrement.pdb
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_05\Example_002_IncrementAndDecrement\obj\Debug\Example_002_IncrementAndDecrement.csproj.CoreCompileInputs.cache
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_05\Example_002_IncrementAndDecrement\obj\Debug\Example_002_IncrementAndDecrement.exe
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_05\Example_002_IncrementAndDecrement\obj\Debug\Example_002_IncrementAndDecrement.pdb

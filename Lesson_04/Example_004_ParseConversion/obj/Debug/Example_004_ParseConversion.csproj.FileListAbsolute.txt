@@ -1,0 +1,12 @@
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_04\Example_004_ParseConversion\obj\Debug\Example_004_ParseConversion.csproj.CoreCompileInputs.cache
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_04\Example_004_ParseConversion\bin\Debug\Example_004_ParseConversion.exe.config
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_04\Example_004_ParseConversion\bin\Debug\Example_004_ParseConversion.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_04\Example_004_ParseConversion\bin\Debug\Example_004_ParseConversion.pdb
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_04\Example_004_ParseConversion\obj\Debug\Example_004_ParseConversion.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_04\Example_004_ParseConversion\obj\Debug\Example_004_ParseConversion.pdb
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_04\Example_004_ParseConversion\bin\Debug\Example_004_ParseConversion.exe.config
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_04\Example_004_ParseConversion\bin\Debug\Example_004_ParseConversion.exe
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_04\Example_004_ParseConversion\bin\Debug\Example_004_ParseConversion.pdb
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_04\Example_004_ParseConversion\obj\Debug\Example_004_ParseConversion.csproj.CoreCompileInputs.cache
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_04\Example_004_ParseConversion\obj\Debug\Example_004_ParseConversion.exe
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_04\Example_004_ParseConversion\obj\Debug\Example_004_ParseConversion.pdb

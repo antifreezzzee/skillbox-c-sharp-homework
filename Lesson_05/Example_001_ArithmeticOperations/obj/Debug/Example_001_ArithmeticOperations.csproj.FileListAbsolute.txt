@@ -1,0 +1,14 @@
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_05\Example_001_ArithmeticOperations\bin\Debug\Example_001_ArithmeticOperations.exe.config
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_05\Example_001_ArithmeticOperations\bin\Debug\Example_001_ArithmeticOperations.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_05\Example_001_ArithmeticOperations\bin\Debug\Example_001_ArithmeticOperations.pdb
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_05\Example_001_ArithmeticOperations\obj\Debug\Example_001_ArithmeticOperations.csprojAssemblyReference.cache
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_05\Example_001_ArithmeticOperations\obj\Debug\Example_001_ArithmeticOperations.csproj.CoreCompileInputs.cache
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_05\Example_001_ArithmeticOperations\obj\Debug\Example_001_ArithmeticOperations.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_05\Example_001_ArithmeticOperations\obj\Debug\Example_001_ArithmeticOperations.pdb
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_05\Example_001_ArithmeticOperations\bin\Debug\Example_001_ArithmeticOperations.exe.config
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_05\Example_001_ArithmeticOperations\bin\Debug\Example_001_ArithmeticOperations.exe
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_05\Example_001_ArithmeticOperations\bin\Debug\Example_001_ArithmeticOperations.pdb
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_05\Example_001_ArithmeticOperations\obj\Debug\Example_001_ArithmeticOperations.csprojAssemblyReference.cache
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_05\Example_001_ArithmeticOperations\obj\Debug\Example_001_ArithmeticOperations.csproj.CoreCompileInputs.cache
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_05\Example_001_ArithmeticOperations\obj\Debug\Example_001_ArithmeticOperations.exe
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_05\Example_001_ArithmeticOperations\obj\Debug\Example_001_ArithmeticOperations.pdb

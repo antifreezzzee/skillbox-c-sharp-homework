@@ -1,0 +1,7 @@
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_004_Array2D\bin\Debug\Example_004_Array2D.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_004_Array2D\bin\Debug\Example_004_Array2D.exe
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_004_Array2D\bin\Debug\Example_004_Array2D.pdb
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_004_Array2D\obj\Debug\Example_004_Array2D.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_004_Array2D\obj\Debug\Example_004_Array2D.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_004_Array2D\obj\Debug\Example_004_Array2D.exe
+D:\ Work\SkillBox\CodeSource\Theme_04\Example_004_Array2D\obj\Debug\Example_004_Array2D.pdb

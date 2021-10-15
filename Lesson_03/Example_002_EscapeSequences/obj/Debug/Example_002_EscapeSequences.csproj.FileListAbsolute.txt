@@ -1,0 +1,12 @@
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_03\Example_002_EscapeSequences\bin\Debug\Example_002_EscapeSequences.exe.config
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_03\Example_002_EscapeSequences\bin\Debug\Example_002_EscapeSequences.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_03\Example_002_EscapeSequences\bin\Debug\Example_002_EscapeSequences.pdb
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_03\Example_002_EscapeSequences\obj\Debug\Example_002_EscapeSequences.csproj.CoreCompileInputs.cache
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_03\Example_002_EscapeSequences\obj\Debug\Example_002_EscapeSequences.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_03\Example_002_EscapeSequences\obj\Debug\Example_002_EscapeSequences.pdb
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_002_EscapeSequences\bin\Debug\Example_002_EscapeSequences.exe.config
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_002_EscapeSequences\bin\Debug\Example_002_EscapeSequences.exe
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_002_EscapeSequences\bin\Debug\Example_002_EscapeSequences.pdb
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_002_EscapeSequences\obj\Debug\Example_002_EscapeSequences.csproj.CoreCompileInputs.cache
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_002_EscapeSequences\obj\Debug\Example_002_EscapeSequences.exe
+C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_002_EscapeSequences\obj\Debug\Example_002_EscapeSequences.pdb
