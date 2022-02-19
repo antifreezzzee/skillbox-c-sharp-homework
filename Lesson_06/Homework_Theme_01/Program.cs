@@ -36,7 +36,101 @@ namespace Homework_Theme_01
             // 5. В качестве бонусной части, за дополнительную оплату $50, заказчик просит реализовать 
             //    возможность вывода данных в центре консоли.
 
-            
+            // Создание переменных:
+            // Подразумевается возможность изменения данных, 
+            // поэтому начальные значения не задаются, создаются поля
+            string name;            // Имя
+            int age;                // Возраст
+            float height;           // Рост
+            int historyScore;       // Балл по истории
+            int mathScore;          // Балл по математике
+            int rusLangScore;       // Балл по русскому
+
+            // Заполнение переменных значениями:
+            name = "Serega";
+            age = 26;
+            height = 184.5f;
+            historyScore = 4;
+            mathScore = 5;
+            rusLangScore = 5;
+
+            // Автоматический подсчёт среднего балла по трем предметам:
+            float averageScore = (historyScore + mathScore + rusLangScore) / 3f;
+
+            // Печать информации на консоли:
+            // Обычный вывод:
+            Console.WriteLine("Обычный вывод");
+            Console.WriteLine("\nИмя: " + name +
+                                "\nВозраст: " + age +
+                                "\nРост: " + height +
+                                "\nБалл по истории: " + historyScore +
+                                "\nБалл по математике: " + mathScore +
+                                "\nБалл по русскому языку: " + rusLangScore +
+                                "\nСредний балл: " + averageScore);
+            // Форматированный вывод:
+            Console.WriteLine("\n\nФорматированный вывод");
+            Console.WriteLine("\nИмя: {0}\nВозраст: {1}\nРост: {2}\nБалл по истории: {3}\nБалл по математике: {4}\nБалл по русскому языку: {5}\nСредний балл: {6}",
+                                name, age, height, historyScore, mathScore, rusLangScore, averageScore);
+
+            // Интерполяция строк:
+            Console.WriteLine("\n\nИнтерполяция строк");
+            Console.WriteLine($"\nИмя: {name}\nВозраст: {age}\nРост: {height}\nБалл по истории: {historyScore}\nБалл по математике: {mathScore}\nБалл по русскому языку: {rusLangScore}\nСредний балл: {averageScore}");
+
+            Console.ReadKey();
+
+            // Вывод по центру консоли:
+            // Очищаем консоль:
+            Console.Clear();
+
+            // Получаем координаты центра консоли и заносим
+            // их в переменные
+            // Ширина:
+            int centerWidth = Console.WindowWidth / 2;
+            // Высота:
+            int centerHeight = Console.WindowHeight / 2;
+
+            // Переменные для хранения координат курсора:
+            // Для первой строки совпадают с центром консоли
+            int cursorX = centerWidth;
+            int cursorY = centerHeight;
+
+            // Устанавливаем курсор в эти координаты и
+            // печатаем первую строку:
+            Console.SetCursorPosition(cursorX, cursorY);
+            Console.WriteLine("Вывод по центру консоли");
+
+            // Смещаемся на две строки ниже, чтобы сделать отступ
+            // и выводим следующую строку:
+            cursorY += 2;
+            Console.SetCursorPosition(cursorX, cursorY);
+            Console.WriteLine("Имя: " + name);
+
+            // И так для каждой строки:
+            cursorY++;
+            Console.SetCursorPosition(cursorX, cursorY);
+            Console.WriteLine("Возраст: " + age);
+
+            cursorY++;
+            Console.SetCursorPosition(cursorX, cursorY);
+            Console.WriteLine("Рост: " + height);
+
+            cursorY++;
+            Console.SetCursorPosition(cursorX, cursorY);
+            Console.WriteLine("Балл по истории: " + historyScore);
+
+            cursorY++;
+            Console.SetCursorPosition(cursorX, cursorY);
+            Console.WriteLine("Балл по математике: " + mathScore);
+
+            cursorY++;
+            Console.SetCursorPosition(cursorX, cursorY);
+            Console.WriteLine("Балл по русскому языку: " + rusLangScore);
+
+            cursorY++;
+            Console.SetCursorPosition(cursorX, cursorY);
+            Console.WriteLine("Средний балл: " + averageScore);
+
+            Console.ReadKey();
 
         }
     }
