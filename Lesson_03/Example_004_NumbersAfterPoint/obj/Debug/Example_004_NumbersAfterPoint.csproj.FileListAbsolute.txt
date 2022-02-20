@@ -12,3 +12,5 @@ C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_004_NumbersAfterPoint
 C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_004_NumbersAfterPoint\obj\Debug\Example_004_NumbersAfterPoint.csproj.CoreCompileInputs.cache
 C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_004_NumbersAfterPoint\obj\Debug\Example_004_NumbersAfterPoint.exe
 C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_004_NumbersAfterPoint\obj\Debug\Example_004_NumbersAfterPoint.pdb
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Lesson_03\Example_004_NumbersAfterPoint\obj\Debug\Example_004_NumbersAfterPoint.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Lesson_03\Example_004_NumbersAfterPoint\obj\Debug\Example_004_NumbersAfterPoint.pdb

@@ -4,3 +4,9 @@ D:\ Work\SkillBox\CodeSource\Theme_04\Example_002_ArrayMethodsEx\bin\Debug\Exam
 D:\ Work\SkillBox\CodeSource\Theme_04\Example_002_ArrayMethodsEx\obj\Debug\Example_002_ArrayMethodsEx.csproj.CoreCompileInputs.cache
 D:\ Work\SkillBox\CodeSource\Theme_04\Example_002_ArrayMethodsEx\obj\Debug\Example_002_ArrayMethodsEx.exe
 D:\ Work\SkillBox\CodeSource\Theme_04\Example_002_ArrayMethodsEx\obj\Debug\Example_002_ArrayMethodsEx.pdb
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_04\Example_002_ArrayMethodsEx\bin\Debug\Example_002_ArrayMethodsEx.exe.config
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_04\Example_002_ArrayMethodsEx\bin\Debug\Example_002_ArrayMethodsEx.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_04\Example_002_ArrayMethodsEx\bin\Debug\Example_002_ArrayMethodsEx.pdb
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_04\Example_002_ArrayMethodsEx\obj\Debug\Example_002_ArrayMethodsEx.csproj.CoreCompileInputs.cache
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_04\Example_002_ArrayMethodsEx\obj\Debug\Example_002_ArrayMethodsEx.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_04\Example_002_ArrayMethodsEx\obj\Debug\Example_002_ArrayMethodsEx.pdb

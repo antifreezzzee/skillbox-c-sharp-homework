@@ -10,3 +10,5 @@ C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_003_StringInterpolati
 C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_003_StringInterpolation\obj\Debug\Example_003_StringInterpolation.csproj.CoreCompileInputs.cache
 C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_003_StringInterpolation\obj\Debug\Example_003_StringInterpolation.exe
 C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_003_StringInterpolation\obj\Debug\Example_003_StringInterpolation.pdb
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Lesson_03\Example_003_StringInterpolation\obj\Debug\Example_003_StringInterpolation.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Lesson_03\Example_003_StringInterpolation\obj\Debug\Example_003_StringInterpolation.pdb

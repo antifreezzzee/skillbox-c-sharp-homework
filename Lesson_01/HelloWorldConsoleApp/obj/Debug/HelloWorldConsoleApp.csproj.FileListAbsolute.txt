@@ -5,3 +5,5 @@ C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\HelloWorldConsoleApp\obj\D
 C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.csproj.CoreCompileInputs.cache
 C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.exe
 C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.pdb
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Lesson_01\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Lesson_01\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.pdb

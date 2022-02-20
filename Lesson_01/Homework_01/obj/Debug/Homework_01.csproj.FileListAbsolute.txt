@@ -12,3 +12,5 @@ D:\ Work\SkillBox\CodeSource\Lesson_01\Homework_01\obj\Debug\Homework_01.csproj
 D:\ Work\SkillBox\CodeSource\Lesson_01\Homework_01\obj\Debug\Homework_01.csproj.CoreCompileInputs.cache
 D:\ Work\SkillBox\CodeSource\Lesson_01\Homework_01\obj\Debug\Homework_01.exe
 D:\ Work\SkillBox\CodeSource\Lesson_01\Homework_01\obj\Debug\Homework_01.pdb
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Lesson_01\Homework_01\obj\Debug\Homework_01.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Lesson_01\Homework_01\obj\Debug\Homework_01.pdb

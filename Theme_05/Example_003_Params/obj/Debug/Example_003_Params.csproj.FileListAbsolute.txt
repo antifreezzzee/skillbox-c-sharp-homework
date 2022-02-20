@@ -1,0 +1,6 @@
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_003_Params\bin\Debug\Example_003_Params.exe.config
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_003_Params\bin\Debug\Example_003_Params.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_003_Params\bin\Debug\Example_003_Params.pdb
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_003_Params\obj\Debug\Example_003_Params.csproj.CoreCompileInputs.cache
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_003_Params\obj\Debug\Example_003_Params.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_003_Params\obj\Debug\Example_003_Params.pdb

@@ -4,3 +4,9 @@ D:\ Work\SkillBox\CodeSource\Theme_04\Example_006_JaggedArrayExs\bin\Debug\Exam
 D:\ Work\SkillBox\CodeSource\Theme_04\Example_006_JaggedArrayExs\obj\Debug\Example_006_JaggedArrayExs.csproj.CoreCompileInputs.cache
 D:\ Work\SkillBox\CodeSource\Theme_04\Example_006_JaggedArrayExs\obj\Debug\Example_006_JaggedArrayExs.exe
 D:\ Work\SkillBox\CodeSource\Theme_04\Example_006_JaggedArrayExs\obj\Debug\Example_006_JaggedArrayExs.pdb
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_04\Example_006_JaggedArrayExs\bin\Debug\Example_006_JaggedArrayExs.exe.config
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_04\Example_006_JaggedArrayExs\bin\Debug\Example_006_JaggedArrayExs.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_04\Example_006_JaggedArrayExs\bin\Debug\Example_006_JaggedArrayExs.pdb
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_04\Example_006_JaggedArrayExs\obj\Debug\Example_006_JaggedArrayExs.csproj.CoreCompileInputs.cache
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_04\Example_006_JaggedArrayExs\obj\Debug\Example_006_JaggedArrayExs.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_04\Example_006_JaggedArrayExs\obj\Debug\Example_006_JaggedArrayExs.pdb

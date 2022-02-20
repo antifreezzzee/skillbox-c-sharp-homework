@@ -1,0 +1,6 @@
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_03\Example_001_Switch\bin\Debug\Example_001_Switch.exe.config
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_03\Example_001_Switch\bin\Debug\Example_001_Switch.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_03\Example_001_Switch\bin\Debug\Example_001_Switch.pdb
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_03\Example_001_Switch\obj\Debug\Example_001_Switch.csproj.CoreCompileInputs.cache
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_03\Example_001_Switch\obj\Debug\Example_001_Switch.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_03\Example_001_Switch\obj\Debug\Example_001_Switch.pdb

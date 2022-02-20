@@ -4,3 +4,9 @@ D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_03Enumerate\bin\Debug\Example
 D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_03Enumerate\bin\Debug\Example_004_03Enumerate.pdb
 D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_03Enumerate\obj\Debug\Example_004_03Enumerate.exe
 D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_03Enumerate\obj\Debug\Example_004_03Enumerate.pdb
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_004_03Enumerate\bin\Debug\Example_004_03Enumerate.exe.config
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_004_03Enumerate\bin\Debug\Example_004_03Enumerate.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_004_03Enumerate\bin\Debug\Example_004_03Enumerate.pdb
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_004_03Enumerate\obj\Debug\Example_004_03Enumerate.csproj.CoreCompileInputs.cache
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_004_03Enumerate\obj\Debug\Example_004_03Enumerate.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_004_03Enumerate\obj\Debug\Example_004_03Enumerate.pdb

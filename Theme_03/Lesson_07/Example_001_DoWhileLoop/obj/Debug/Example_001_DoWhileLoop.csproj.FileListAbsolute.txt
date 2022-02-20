@@ -4,3 +4,9 @@ D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_07\Example_001_DoWhileLoop\bin\Deb
 D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_07\Example_001_DoWhileLoop\obj\Debug\Example_001_DoWhileLoop.csproj.CoreCompileInputs.cache
 D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_07\Example_001_DoWhileLoop\obj\Debug\Example_001_DoWhileLoop.exe
 D:\ Work\SkillBox\CodeSource\Theme_03\Lesson_07\Example_001_DoWhileLoop\obj\Debug\Example_001_DoWhileLoop.pdb
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_07\Example_001_DoWhileLoop\bin\Debug\Example_001_DoWhileLoop.exe.config
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_07\Example_001_DoWhileLoop\bin\Debug\Example_001_DoWhileLoop.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_07\Example_001_DoWhileLoop\bin\Debug\Example_001_DoWhileLoop.pdb
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_07\Example_001_DoWhileLoop\obj\Debug\Example_001_DoWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_07\Example_001_DoWhileLoop\obj\Debug\Example_001_DoWhileLoop.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_07\Example_001_DoWhileLoop\obj\Debug\Example_001_DoWhileLoop.pdb

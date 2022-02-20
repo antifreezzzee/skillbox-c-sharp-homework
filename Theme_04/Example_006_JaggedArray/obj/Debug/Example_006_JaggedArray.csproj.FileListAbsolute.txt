@@ -4,3 +4,9 @@ D:\ Work\SkillBox\CodeSource\Theme_04\Example_006_JaggedArray\bin\Debug\Example
 D:\ Work\SkillBox\CodeSource\Theme_04\Example_006_JaggedArray\obj\Debug\Example_006_JaggedArray.csproj.CoreCompileInputs.cache
 D:\ Work\SkillBox\CodeSource\Theme_04\Example_006_JaggedArray\obj\Debug\Example_006_JaggedArray.exe
 D:\ Work\SkillBox\CodeSource\Theme_04\Example_006_JaggedArray\obj\Debug\Example_006_JaggedArray.pdb
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_04\Example_006_JaggedArray\bin\Debug\Example_006_JaggedArray.exe.config
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_04\Example_006_JaggedArray\bin\Debug\Example_006_JaggedArray.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_04\Example_006_JaggedArray\bin\Debug\Example_006_JaggedArray.pdb
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_04\Example_006_JaggedArray\obj\Debug\Example_006_JaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_04\Example_006_JaggedArray\obj\Debug\Example_006_JaggedArray.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_04\Example_006_JaggedArray\obj\Debug\Example_006_JaggedArray.pdb

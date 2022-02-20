@@ -5,3 +5,9 @@ D:\ Work\SkillBox\CodeSource\Theme_05\Example_001_Method\obj\Debug\Example_001_
 D:\ Work\SkillBox\CodeSource\Theme_05\Example_001_Method\obj\Debug\Example_001_Method.csproj.CoreCompileInputs.cache
 D:\ Work\SkillBox\CodeSource\Theme_05\Example_001_Method\obj\Debug\Example_001_Method.exe
 D:\ Work\SkillBox\CodeSource\Theme_05\Example_001_Method\obj\Debug\Example_001_Method.pdb
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_001_Method\bin\Debug\Example_001_Method.exe.config
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_001_Method\bin\Debug\Example_001_Method.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_001_Method\bin\Debug\Example_001_Method.pdb
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_001_Method\obj\Debug\Example_001_Method.csproj.CoreCompileInputs.cache
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_001_Method\obj\Debug\Example_001_Method.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_001_Method\obj\Debug\Example_001_Method.pdb

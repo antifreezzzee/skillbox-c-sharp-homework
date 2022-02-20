@@ -1,0 +1,6 @@
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_001_IntroImprovement\bin\Debug\Example_001_IntroImprovement.exe.config
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_001_IntroImprovement\bin\Debug\Example_001_IntroImprovement.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_001_IntroImprovement\bin\Debug\Example_001_IntroImprovement.pdb
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_001_IntroImprovement\obj\Debug\Example_001_IntroImprovement.csproj.CoreCompileInputs.cache
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_001_IntroImprovement\obj\Debug\Example_001_IntroImprovement.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_001_IntroImprovement\obj\Debug\Example_001_IntroImprovement.pdb

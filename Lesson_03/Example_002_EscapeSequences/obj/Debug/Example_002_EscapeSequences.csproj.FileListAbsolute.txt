@@ -10,3 +10,5 @@ C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_002_EscapeSequences\b
 C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_002_EscapeSequences\obj\Debug\Example_002_EscapeSequences.csproj.CoreCompileInputs.cache
 C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_002_EscapeSequences\obj\Debug\Example_002_EscapeSequences.exe
 C:\Users\Sk\Documents\SkillBoxCodeSource\Lesson_03\Example_002_EscapeSequences\obj\Debug\Example_002_EscapeSequences.pdb
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Lesson_03\Example_002_EscapeSequences\obj\Debug\Example_002_EscapeSequences.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Lesson_03\Example_002_EscapeSequences\obj\Debug\Example_002_EscapeSequences.pdb

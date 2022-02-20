@@ -4,3 +4,9 @@ D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_02Numbers\bin\Debug\Example_0
 D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_02Numbers\obj\Debug\Example_004_02Numbers.csproj.CoreCompileInputs.cache
 D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_02Numbers\obj\Debug\Example_004_02Numbers.exe
 D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_02Numbers\obj\Debug\Example_004_02Numbers.pdb
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_004_02Numbers\bin\Debug\Example_004_02Numbers.exe.config
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_004_02Numbers\bin\Debug\Example_004_02Numbers.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_004_02Numbers\bin\Debug\Example_004_02Numbers.pdb
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_004_02Numbers\obj\Debug\Example_004_02Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_004_02Numbers\obj\Debug\Example_004_02Numbers.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_004_02Numbers\obj\Debug\Example_004_02Numbers.pdb

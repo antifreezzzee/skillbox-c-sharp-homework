@@ -4,3 +4,9 @@ D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_Loops\bin\Debug\Example_004_L
 D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_Loops\obj\Debug\Example_004_00Loops.csproj.CoreCompileInputs.cache
 D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_Loops\obj\Debug\Example_004_Loops.exe
 D:\ Work\SkillBox\CodeSource\Theme_05\Example_004_Loops\obj\Debug\Example_004_Loops.pdb
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_004_Loops\bin\Debug\Example_004_Loops.exe.config
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_004_Loops\bin\Debug\Example_004_Loops.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_004_Loops\bin\Debug\Example_004_Loops.pdb
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_004_Loops\obj\Debug\Example_004_00Loops.csproj.CoreCompileInputs.cache
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_004_Loops\obj\Debug\Example_004_Loops.exe
+C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_004_Loops\obj\Debug\Example_004_Loops.pdb
