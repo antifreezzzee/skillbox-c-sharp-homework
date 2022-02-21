@@ -1,0 +1,7 @@
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_611_MathDateConvert\bin\Debug\Example_611_MathDateConvert.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_611_MathDateConvert\bin\Debug\Example_611_MathDateConvert.exe
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_611_MathDateConvert\bin\Debug\Example_611_MathDateConvert.pdb
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_611_MathDateConvert\obj\Debug\Example_611_MathDateConvert.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_611_MathDateConvert\obj\Debug\Example_611_MathDateConvert.exe
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_611_MathDateConvert\obj\Debug\Example_611_MathDateConvert.pdb
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_611_MathDateConvert\obj\Debug\Example_611_MathDateConvert.csprojAssemblyReference.cache

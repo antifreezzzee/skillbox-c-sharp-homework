@@ -1,0 +1,7 @@
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_633_Directory\bin\Debug\Example_633_Directory.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_633_Directory\bin\Debug\Example_633_Directory.exe
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_633_Directory\bin\Debug\Example_633_Directory.pdb
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_633_Directory\obj\Debug\Example_633_Directory.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_633_Directory\obj\Debug\Example_633_Directory.exe
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_633_Directory\obj\Debug\Example_633_Directory.pdb
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_633_Directory\obj\Debug\Example_633_Directory.csprojAssemblyReference.cache

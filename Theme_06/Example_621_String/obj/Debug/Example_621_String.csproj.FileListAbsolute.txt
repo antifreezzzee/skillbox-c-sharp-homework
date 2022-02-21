@@ -1,0 +1,7 @@
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_621_String\bin\Debug\Example_621_String.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_621_String\bin\Debug\Example_621_String.exe
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_621_String\bin\Debug\Example_621_String.pdb
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_621_String\obj\Debug\Example_621_String.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_621_String\obj\Debug\Example_621_String.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_621_String\obj\Debug\Example_621_String.exe
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_621_String\obj\Debug\Example_621_String.pdb

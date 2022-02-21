@@ -1,0 +1,7 @@
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_652_StringReaderWriter\bin\Debug\Example_652_StringReaderWriter.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_652_StringReaderWriter\bin\Debug\Example_652_StringReaderWriter.exe
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_652_StringReaderWriter\bin\Debug\Example_652_StringReaderWriter.pdb
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_652_StringReaderWriter\obj\Debug\Example_652_StringReaderWriter.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_652_StringReaderWriter\obj\Debug\Example_652_StringReaderWriter.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_652_StringReaderWriter\obj\Debug\Example_652_StringReaderWriter.exe
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_652_StringReaderWriter\obj\Debug\Example_652_StringReaderWriter.pdb

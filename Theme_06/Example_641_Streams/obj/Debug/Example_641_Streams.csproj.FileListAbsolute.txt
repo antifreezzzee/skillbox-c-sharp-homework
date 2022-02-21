@@ -1,0 +1,7 @@
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_641_Streams\bin\Debug\Example_641_Streams.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_641_Streams\bin\Debug\Example_641_Streams.exe
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_641_Streams\bin\Debug\Example_641_Streams.pdb
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_641_Streams\obj\Debug\Example_641_Streams.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_641_Streams\obj\Debug\Example_641_Streams.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_641_Streams\obj\Debug\Example_641_Streams.exe
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_641_Streams\obj\Debug\Example_641_Streams.pdb

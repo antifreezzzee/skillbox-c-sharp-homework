@@ -1,0 +1,7 @@
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_642_Catalog\bin\Debug\Example_642_Catalog.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_642_Catalog\bin\Debug\Example_642_Catalog.exe
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_642_Catalog\bin\Debug\Example_642_Catalog.pdb
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_642_Catalog\obj\Debug\Example_642_Catalog.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_642_Catalog\obj\Debug\Example_642_Catalog.exe
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_642_Catalog\obj\Debug\Example_642_Catalog.pdb
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_642_Catalog\obj\Debug\Example_642_Catalog.csprojAssemblyReference.cache

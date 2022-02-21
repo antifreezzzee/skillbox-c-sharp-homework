@@ -1,0 +1,7 @@
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_651_StringBuilder\bin\Debug\Example_651_StringBuilder.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_651_StringBuilder\bin\Debug\Example_651_StringBuilder.exe
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_651_StringBuilder\bin\Debug\Example_651_StringBuilder.pdb
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_651_StringBuilder\obj\Debug\Example_651_StringBuilder.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_651_StringBuilder\obj\Debug\Example_651_StringBuilder.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_651_StringBuilder\obj\Debug\Example_651_StringBuilder.exe
+D:\ Work\SkillBox\CodeSource\Theme_06\Example_651_StringBuilder\obj\Debug\Example_651_StringBuilder.pdb
