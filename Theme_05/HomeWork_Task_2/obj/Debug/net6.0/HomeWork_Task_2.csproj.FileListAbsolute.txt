@@ -1,0 +1,15 @@
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\HomeWork_Task_2\bin\Debug\net6.0\HomeWork_Task_2.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\HomeWork_Task_2\bin\Debug\net6.0\HomeWork_Task_2.deps.json
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\HomeWork_Task_2\bin\Debug\net6.0\HomeWork_Task_2.runtimeconfig.json
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\HomeWork_Task_2\bin\Debug\net6.0\HomeWork_Task_2.dll
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\HomeWork_Task_2\bin\Debug\net6.0\ref\HomeWork_Task_2.dll
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\HomeWork_Task_2\bin\Debug\net6.0\HomeWork_Task_2.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\HomeWork_Task_2\obj\Debug\net6.0\HomeWork_Task_2.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\HomeWork_Task_2\obj\Debug\net6.0\HomeWork_Task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\HomeWork_Task_2\obj\Debug\net6.0\HomeWork_Task_2.AssemblyInfoInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\HomeWork_Task_2\obj\Debug\net6.0\HomeWork_Task_2.AssemblyInfo.cs
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\HomeWork_Task_2\obj\Debug\net6.0\HomeWork_Task_2.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\HomeWork_Task_2\obj\Debug\net6.0\HomeWork_Task_2.dll
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\HomeWork_Task_2\obj\Debug\net6.0\ref\HomeWork_Task_2.dll
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\HomeWork_Task_2\obj\Debug\net6.0\HomeWork_Task_2.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\HomeWork_Task_2\obj\Debug\net6.0\HomeWork_Task_2.genruntimeconfig.cache
