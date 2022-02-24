@@ -1,0 +1,6 @@
+D:\ Work\SkillBox\CodeSource\Theme_07\Example_730_Prop\obj\Debug\Example_730_Prop.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_07\Example_730_Prop\bin\Debug\Example_730_Prop.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_07\Example_730_Prop\bin\Debug\Example_730_Prop.exe
+D:\ Work\SkillBox\CodeSource\Theme_07\Example_730_Prop\bin\Debug\Example_730_Prop.pdb
+D:\ Work\SkillBox\CodeSource\Theme_07\Example_730_Prop\obj\Debug\Example_730_Prop.exe
+D:\ Work\SkillBox\CodeSource\Theme_07\Example_730_Prop\obj\Debug\Example_730_Prop.pdb

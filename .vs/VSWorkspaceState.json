@@ -1,16 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Lesson_01\\HelloWorldConsoleApp",
-    "\\Lesson_06\\Homework_Theme_01",
-    "\\Theme_03",
     "\\Theme_03\\Lesson_08",
     "\\Theme_03\\Lesson_08\\Homework_Theme_03",
-    "\\Theme_04\\Homework_Theme_04",
-    "\\Theme_05",
     "\\Theme_05\\Example_002_Method00",
-    "\\Theme_05\\Example_005"
+    "\\Theme_05\\Example_005",
+    "\\Theme_07"
   ],
-  "SelectedNode": "\\Theme_05\\Example_002_Method00\\Program.cs",
+  "SelectedNode": "\\SkillBoxCodeSource.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,7 @@
+D:\ Work\SkillBox\CodeSource\Theme_07\Example_730_Ctor\bin\Debug\Example_730_Ctor.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_07\Example_730_Ctor\bin\Debug\Example_730_Ctor.exe
+D:\ Work\SkillBox\CodeSource\Theme_07\Example_730_Ctor\bin\Debug\Example_730_Ctor.pdb
+D:\ Work\SkillBox\CodeSource\Theme_07\Example_730_Ctor\obj\Debug\Example_730_Ctor.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_07\Example_730_Ctor\obj\Debug\Example_730_Ctor.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_07\Example_730_Ctor\obj\Debug\Example_730_Ctor.exe
+D:\ Work\SkillBox\CodeSource\Theme_07\Example_730_Ctor\obj\Debug\Example_730_Ctor.pdb

@@ -1,0 +1,7 @@
+D:\ Work\SkillBox\CodeSource\Theme_07\Example_732_Indexer\obj\Debug\Example_732_Indexer.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_07\Example_732_Indexer\obj\Debug\Example_732_Indexer.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_07\Example_732_Indexer\bin\Debug\Example_732_Indexer.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_07\Example_732_Indexer\bin\Debug\Example_732_Indexer.exe
+D:\ Work\SkillBox\CodeSource\Theme_07\Example_732_Indexer\bin\Debug\Example_732_Indexer.pdb
+D:\ Work\SkillBox\CodeSource\Theme_07\Example_732_Indexer\obj\Debug\Example_732_Indexer.exe
+D:\ Work\SkillBox\CodeSource\Theme_07\Example_732_Indexer\obj\Debug\Example_732_Indexer.pdb

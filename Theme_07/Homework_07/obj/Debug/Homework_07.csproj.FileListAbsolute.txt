@@ -1,0 +1,7 @@
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Homework_07\bin\Debug\Homework_07.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Homework_07\bin\Debug\Homework_07.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Homework_07\bin\Debug\Homework_07.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Homework_07\obj\Debug\Homework_07.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Homework_07\obj\Debug\Homework_07.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Homework_07\obj\Debug\Homework_07.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Homework_07\obj\Debug\Homework_07.pdb
