@@ -1,7 +1,5 @@
 using System;
-using System.Globalization;
 using System.IO;
-using System.Linq;
 using System.Text;
 
 namespace Homework_07
@@ -47,6 +45,12 @@ namespace Homework_07
             //Проходим по каждой строке
             for (int i = 0; i < linesFromFile.Length; i++)
             {
+                //Если строка пустая, игнорируем
+                if (linesFromFile[i] == "")
+                {
+                    continue;
+                }
+
                 //Делим строку через разделитель и заносим строковые и числовые данные в переменные
                 String[] currentLineStaffData = linesFromFile[i].Split('#');
                 int currentStaffID = Convert.ToInt32(currentLineStaffData[0]);
@@ -90,9 +94,21 @@ namespace Homework_07
         }
 
         //Метод, сохраняющий массив строк в файл базы данных
-        public void saveFile(String[] staffsArray)
+        public void saveFile()
         {
-            File.WriteAllLines(filePath, staffsArray);
+            StringBuilder toWrite = new StringBuilder("");
+            for (int i = 0; i < staffsLinesArray.Length; i++)
+            {
+                toWrite.Append(staffsLinesArray[i]);
+                if (i < staffsLinesArray.Length - 1)
+                {
+                    toWrite.Append("\n");
+                }
+            }
+
+            // Console.WriteLine("СТРОКА К СОХРАНЕНИЮ\n\n" + toWrite);
+            // Console.ReadKey();
+            File.WriteAllLines(filePath, staffsLinesArray);
         }
 
         //Метод, добавляющий сотрудника в файл базы данных
@@ -118,11 +134,30 @@ namespace Homework_07
             StringBuilder newStaff = new StringBuilder("\n");
 
             //Затем добавляем введенные данные через разделитель
-            newStaff.Append(id).Append("#").Append(DateTime.Now.ToString("dd.MM.yyyy HH:mm")).Append("#").Append(name).Append("#").Append(age)
+            newStaff.Append(id).Append("#").Append(DateTime.Now.ToString("dd.MM.yyyy HH:mm")).Append("#").Append(name)
+                .Append("#").Append(age)
                 .Append("#").Append(height).Append("#").Append(bDay).Append("#").Append(bCountry);
 
             //Добавляем строку в конец файла и предлагаем добавить еще одного сотрудника
             File.AppendAllText(filePath, newStaff.ToString());
+
+            //Перезаполняем массив структур Staff с учетом изменения
+            fillStaffsArray();
+
+            //Удаляем структуры, появившиеся из пустых строк
+            for (int i = 0; i < staffsArray.Length; i++)
+            {
+                if (staffsArray[i].ID == 0)
+                {
+                    deleteData(0);
+                }
+            }
+
+            //Перезаполняем массив строковых представлений структур и сохраняем файл
+            fillStaffsLinesArray();
+            saveFile();
+
+            //Предлагаем добавить еще
             Console.WriteLine("Сотрудник добавлен. Добавить еще одного? д/н");
             String key = Console.ReadLine();
 
@@ -180,21 +215,32 @@ namespace Homework_07
             }
         }
 
+        //Перегрузка, выводящая записи из диапазона дат
         public void showData(String from, String until)
         {
+            //Парсим из входных данных границы дат
             DateTime fromDate = DateTime.Parse(from);
             DateTime untilDate = DateTime.Parse(until);
             printTableTitle();
+
+            //Флаг, показывающий есть ли результаты для вывода
             bool empty = true;
+
+            //Проходим по массиву сотрудников и выясняем,
+            //подходит ли текущий элемент по параметрам
             foreach (var staff in staffsArray)
             {
                 if (staff.addDate > fromDate && staff.addDate < untilDate)
                 {
                     staff.printStaff();
+
+                    //Если есть хоть один подходящий элемент,
+                    //меняем флаг
                     empty = false;
                 }
             }
 
+            //Если нет результатов, сообщаем
             if (empty)
             {
                 Console.WriteLine("Нет данных за период");
@@ -234,8 +280,11 @@ namespace Homework_07
                 newStaffLines[i] = trimStaffArray[i].convertStaffToString();
             }
 
+
+            staffsLinesArray = newStaffLines;
+            fillStaffsArray();
             //Сохраняем файл. Запись удалена, все ID на месте и идут по порядку
-            saveFile(newStaffLines);
+            saveFile();
             showData();
         }
 
@@ -245,6 +294,8 @@ namespace Homework_07
             String mode = "";
             while (true)
             {
+                //Узнаем что нужно поменять и записываем в переменную mode.
+                //Если ввод неверный, просим повторить
                 Console.WriteLine("Что вы хотите изменить?\n" +
                                   "1 - имя\n2 - день рождения\n3 - возраст\n4 - рост\n5 - город\nВведите цифру:");
                 mode = Console.ReadLine();
@@ -258,6 +309,8 @@ namespace Homework_07
                 }
             }
 
+            //Находим нужный элемент по ID и предлагаем ввести новые данные
+            //для выбранного поля
             for (int i = 0; i < staffsArray.Length; i++)
             {
                 if (staffsArray[i].ID == ID)
@@ -288,8 +341,9 @@ namespace Homework_07
                 }
             }
 
+            //Обновляем массив строк и сохраняем файл
             fillStaffsLinesArray();
-            saveFile(staffsLinesArray);
+            saveFile();
             showData();
         }
 

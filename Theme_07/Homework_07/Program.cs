@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Homework_07
 {
@@ -55,9 +51,10 @@ namespace Homework_07
                         repository.showData(from, until);
                         break;
                     case "7":
-                        Console.WriteLine("Сортировать по возрастанию? д/н: ");
+                        Console.WriteLine("Введите \"в\" для сортировки по возрастанию" +
+                                          "\nлибо другой любой символ для сортировки по убыванию: ");
                         String key = Console.ReadLine();
-                        if (key == "д" || key == "Д")
+                        if (key == "в" || key == "В")
                         {
                             repository.showData(repository.sortByDate(true));
                         }
