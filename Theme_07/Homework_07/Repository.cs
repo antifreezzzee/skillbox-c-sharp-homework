@@ -106,8 +106,6 @@ namespace Homework_07
                 }
             }
 
-            // Console.WriteLine("СТРОКА К СОХРАНЕНИЮ\n\n" + toWrite);
-            // Console.ReadKey();
             File.WriteAllLines(filePath, staffsLinesArray);
         }
 
