@@ -1,15 +1,21 @@
 using System;
 using System.Globalization;
 using System.IO;
+using System.Linq;
 using System.Text;
 
 namespace Homework_07
 {
     public struct Repository
     {
+        #region Переменные
+
         private String filePath;
         private Staff[] staffsArray;
+        private Staff[] staffsSortedArray;
         private String[] staffsLinesArray;
+
+        #endregion
 
         //Конструктор для хранилища, принимающий аргументом имя файла базы данных
         public Repository(string FilePath)
@@ -17,7 +23,10 @@ namespace Homework_07
             filePath = FilePath;
             staffsArray = null;
             staffsLinesArray = null;
+            staffsSortedArray = null;
         }
+
+        #region Методы
 
         //Метод, читающий в файле базы данных все строки и возвращающий их в виде массива
         public String[] readFile()
@@ -46,16 +55,8 @@ namespace Homework_07
                 int currentStaffHeight = Convert.ToInt32(currentLineStaffData[4]);
                 String currentStaffBPlace = currentLineStaffData[6];
 
-                //Здесь скорее всего написан дичайший костыль, но я не смог на данном этапе
-                //в документации найти более правильное решение. Поэтому делим дату создания на отдельные
-                //цифры и из них заново собираем DateTime
-                String[] addDataTimeArray = currentLineStaffData[1].Split('.', ' ', ':');
-                DateTime currentStaffAddDateTime = new DateTime(Convert.ToInt32(addDataTimeArray[2]),
-                    Convert.ToInt32(addDataTimeArray[1]), Convert.ToInt32(addDataTimeArray[0]),
-                    Convert.ToInt32(addDataTimeArray[3]), Convert.ToInt32(addDataTimeArray[4]), 0);
-                String[] bDayTimeArray = currentLineStaffData[5].Split('.');
-                
-                //Парсим строку дня рождения в DateTime
+                //Парсим строку дня рождения и даты создания в DateTime
+                DateTime currentStaffAddDateTime = DateTime.Parse(currentLineStaffData[1] + ":00");
                 DateTime currentStaffBDayDateTime = DateTime.Parse(currentLineStaffData[5]);
 
                 //Создаем экземпляр структуры, передавая в конструктор полученные выше переменные 
@@ -71,7 +72,7 @@ namespace Homework_07
         {
             //На основании количества экземпляров структуры Staff, создаем массив для хранения строк
             staffsLinesArray = new String[staffsArray.Length];
-            
+
             //Проходим по всем экземплярам и с помощью геттеров формируем строку
             for (int i = 0; i < staffsLinesArray.Length; i++)
             {
@@ -82,7 +83,7 @@ namespace Homework_07
                     .Append("#").Append(staffsArray[i].heigth).Append("#")
                     .Append(staffsArray[i].bDay.ToString("dd.MM.yyyy"))
                     .Append("#").Append(staffsArray[i].bPlace);
-                
+
                 //Добавляем строку в массив
                 staffsLinesArray[i] = newStaffLine.ToString();
             }
@@ -94,7 +95,7 @@ namespace Homework_07
             File.WriteAllLines(filePath, staffsArray);
         }
 
-        //Метод, добавляющий сотрудника в базу данных
+        //Метод, добавляющий сотрудника в файл базы данных
         public void addData()
         {
             //Создаем переменные и заполняем их данные
@@ -117,7 +118,7 @@ namespace Homework_07
             StringBuilder newStaff = new StringBuilder("\n");
 
             //Затем добавляем введенные данные через разделитель
-            newStaff.Append(id).Append("#").Append(DateTime.Now).Append("#").Append(name).Append("#").Append(age)
+            newStaff.Append(id).Append("#").Append(DateTime.Now.ToString("dd.MM.yyyy HH:mm")).Append("#").Append(name).Append("#").Append(age)
                 .Append("#").Append(height).Append("#").Append(bDay).Append("#").Append(bCountry);
 
             //Добавляем строку в конец файла и предлагаем добавить еще одного сотрудника
@@ -137,12 +138,12 @@ namespace Homework_07
                 showData();
             }
         }
-        
+
         //Вывод шапки таблицы
         private void printTableTitle()
         {
             Console.WriteLine(
-                $"{"ID",3}{"Дата добавления",17}{"Сотрудник",25}{"Возраст",10}{"Рост",7}{"Дата рождения",16}{"Место рождения",25}\n");
+                $"\n{"ID",3}{"Дата добавления",17}{"Сотрудник",25}{"Возраст",10}{"Рост",7}{"Дата рождения",16}{"Место рождения",25}\n");
         }
 
         //Метод, выводящий всю базу данных в консоль
@@ -161,11 +162,43 @@ namespace Homework_07
         {
             fillStaffsArray();
             printTableTitle();
+
             //Получаем сотрудника по ID. Т.к. индексация массива идет с нуля, а ID c единицы,
             //нужный нам элемент будет находиться по индексу ID - 1
             //Читаем файл и достаем нужную строку.
             Staff staff = staffsArray[ID - 1];
             staff.printStaff();
+        }
+
+        //Перегрузка, выводящая сортированную базу данных в консоль
+        public void showData(Staff[] staffsList)
+        {
+            printTableTitle();
+            foreach (var staff in staffsList)
+            {
+                staff.printStaff();
+            }
+        }
+
+        public void showData(String from, String until)
+        {
+            DateTime fromDate = DateTime.Parse(from);
+            DateTime untilDate = DateTime.Parse(until);
+            printTableTitle();
+            bool empty = true;
+            foreach (var staff in staffsArray)
+            {
+                if (staff.addDate > fromDate && staff.addDate < untilDate)
+                {
+                    staff.printStaff();
+                    empty = false;
+                }
+            }
+
+            if (empty)
+            {
+                Console.WriteLine("Нет данных за период");
+            }
         }
 
         //Метод, удаляющий сотрудника из базы данных
@@ -189,32 +222,21 @@ namespace Homework_07
                 }
             }
 
-            //Проходим по новому массиву и исправляем у всего списка ID
+            //Создем массив для хранения нового списка строк данных сотрудников
+            //и последующей записи их в файл базы данных
             String[] newStaffLines = new String[trimStaffArray.Length];
+
+            //Проходим по новому массиву сотрудников после удаления, исправляем у всего списка ID
+            //и добавляем сотрудника с исправленным ID в вышесозданный массив
             for (int i = 0; i < trimStaffArray.Length; i++)
             {
                 trimStaffArray[i].ID = i + 1;
-
-                //Теперь нужно обновить данные в файле,
-                //чтобы можно было корректно инициализировать
-                //массив объектов Staff с учетом изменившихся данных
-                //Начинаем формировать новую строку для сотрудника
-                StringBuilder newStaffLine = new StringBuilder("");
-
-                //Затем добавляем введенные данные через разделитель
-                newStaffLine.Append(trimStaffArray[i].ID).Append("#")
-                    .Append(trimStaffArray[i].addDate.ToString("dd.MM.yyyy HH:mm"))
-                    .Append("#").Append(trimStaffArray[i].name).Append("#").Append(trimStaffArray[i].age)
-                    .Append("#").Append(trimStaffArray[i].heigth).Append("#")
-                    .Append(trimStaffArray[i].bDay.ToString("dd.MM.yyyy"))
-                    .Append("#").Append(trimStaffArray[i].bPlace);
-
-                //Добавляем отредактированного сотрудника в массив новых строк
-                newStaffLines[i] = newStaffLine.ToString();
+                newStaffLines[i] = trimStaffArray[i].convertStaffToString();
             }
 
             //Сохраняем файл. Запись удалена, все ID на месте и идут по порядку
             saveFile(newStaffLines);
+            showData();
         }
 
         //Метод, позволяющий изменить данные сотрудника по ID
@@ -265,13 +287,61 @@ namespace Homework_07
                     }
                 }
             }
+
             fillStaffsLinesArray();
             saveFile(staffsLinesArray);
             showData();
         }
 
-        public void sortByDate(bool up)
+        //Метод, позволяющий отсортировать базу данных по возрастанию или убыванию
+        public Staff[] sortByDate(bool up)
         {
+            //Читаем актуальные данные из файла
+            fillStaffsArray();
+
+            //Инициализируем массив для хранения сортированных данных и копируем в него 
+            //исходный список
+            staffsSortedArray = new Staff[staffsArray.Length];
+            Array.Copy(staffsArray, staffsSortedArray, staffsArray.Length);
+
+            //Сортируем массив сотрудников по возрастанию даты добавления методом выбора
+
+            //Проход по всему массиву, за исключением последнего элемента, который некуда переставлять
+            for (int i = 0; i < staffsSortedArray.Length - 1; i++)
+            {
+                //Назначаем элемент массива, в который будем считать минимальным
+                Staff min = staffsSortedArray[i];
+
+                //Проход по несортированной части массива и поиск фактического минимального значения
+                for (int j = i + 1; j < staffsSortedArray.Length; j++)
+                {
+                    //Сравниваем дату добавления текущего элемента итерации цикла и элемента назначенного минимальным
+                    //Если текущий элемент имеет более раннюю дату, то назначаем минимальным его
+                    if (staffsSortedArray[j].addDate < min.addDate) min = staffsSortedArray[j];
+                }
+
+                //Проход по несортированной части массива с перестановкой элемента, назначенного минимальным на первый фактически минимальный 
+                for (int j = i + 1; j < staffsSortedArray.Length; j++)
+                {
+                    if (staffsSortedArray[j].addDate == min.addDate)
+                    {
+                        Staff temp = staffsSortedArray[i];
+                        staffsSortedArray[i] = staffsSortedArray[j];
+                        staffsSortedArray[j] = temp;
+                        break;
+                    }
+                }
+            }
+
+            //Если флаг установлен в false, инвертируем результат
+            if (!up)
+            {
+                Array.Reverse(staffsSortedArray);
+            }
+
+            return staffsSortedArray;
         }
+
+        #endregion
     }
 }
