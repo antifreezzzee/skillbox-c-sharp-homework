@@ -1,0 +1,19 @@
+D:\ Work\SkillBox\CodeSource\Example_851_SerializationJson\bin\Debug\Example_851_SerializationJson.exe.config
+D:\ Work\SkillBox\CodeSource\Example_851_SerializationJson\bin\Debug\Example_851_SerializationJson.exe
+D:\ Work\SkillBox\CodeSource\Example_851_SerializationJson\bin\Debug\Example_851_SerializationJson.pdb
+D:\ Work\SkillBox\CodeSource\Example_851_SerializationJson\bin\Debug\Newtonsoft.Json.dll
+D:\ Work\SkillBox\CodeSource\Example_851_SerializationJson\bin\Debug\Newtonsoft.Json.xml
+D:\ Work\SkillBox\CodeSource\Example_851_SerializationJson\obj\Debug\Example_851_SerializationJson.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Example_851_SerializationJson\obj\Debug\Example_851_SerializationJson.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Example_851_SerializationJson\obj\Debug\Example_851_SerializationJson.csproj.CopyComplete
+D:\ Work\SkillBox\CodeSource\Example_851_SerializationJson\obj\Debug\Example_851_SerializationJson.exe
+D:\ Work\SkillBox\CodeSource\Example_851_SerializationJson\obj\Debug\Example_851_SerializationJson.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_851_SerializationJson\bin\Debug\Example_851_SerializationJson.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_851_SerializationJson\bin\Debug\Example_851_SerializationJson.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_851_SerializationJson\bin\Debug\Example_851_SerializationJson.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_851_SerializationJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_851_SerializationJson\obj\Debug\Example_851_SerializationJson.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_851_SerializationJson\obj\Debug\Example_851_SerializationJson.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_851_SerializationJson\obj\Debug\Example_851_SerializationJson.csproj.CopyComplete
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_851_SerializationJson\obj\Debug\Example_851_SerializationJson.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_851_SerializationJson\obj\Debug\Example_851_SerializationJson.pdb

@@ -4,3 +4,10 @@ C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_05\Example_0
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_05\Example_000_Loops\obj\Debug\Example_000_Loops.csproj.CoreCompileInputs.cache
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_05\Example_000_Loops\obj\Debug\Example_000_Loops.exe
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_05\Example_000_Loops\obj\Debug\Example_000_Loops.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_05\Example_000_Loops\bin\Debug\Example_000_Loops.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_05\Example_000_Loops\bin\Debug\Example_000_Loops.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_05\Example_000_Loops\bin\Debug\Example_000_Loops.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_05\Example_000_Loops\obj\Debug\Example_000_Loops.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_05\Example_000_Loops\obj\Debug\Example_000_Loops.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_05\Example_000_Loops\obj\Debug\Example_000_Loops.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_05\Example_000_Loops\obj\Debug\Example_000_Loops.pdb

@@ -1,0 +1,3 @@
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_730_Prop\obj\Debug\Example_731_Prop.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_730_Prop\obj\Debug\Example_730_Prop.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_730_Prop\obj\Debug\Example_730_Prop.pdb

@@ -1,0 +1,11 @@
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_720_AccessModifiers\bin\Debug\Example_720_AccessModifiers.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_720_AccessModifiers\bin\Debug\Example_720_AccessModifiers.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_720_AccessModifiers\bin\Debug\Example_720_AccessModifiers.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_720_AccessModifiers\bin\Debug\Example_710_Intro.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_720_AccessModifiers\bin\Debug\Example_710_Intro.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_720_AccessModifiers\bin\Debug\Example_710_Intro.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_720_AccessModifiers\obj\Debug\Example_720_AccessModifiers.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_720_AccessModifiers\obj\Debug\Example_720_AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_720_AccessModifiers\obj\Debug\Example_720_AccessModifiers.csproj.CopyComplete
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_720_AccessModifiers\obj\Debug\Example_720_AccessModifiers.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_720_AccessModifiers\obj\Debug\Example_720_AccessModifiers.pdb

@@ -5,3 +5,9 @@ D:\ Work\SkillBox\CodeSource\Theme_07\Example_730_Ctor\obj\Debug\Example_730_Ct
 D:\ Work\SkillBox\CodeSource\Theme_07\Example_730_Ctor\obj\Debug\Example_730_Ctor.csproj.CoreCompileInputs.cache
 D:\ Work\SkillBox\CodeSource\Theme_07\Example_730_Ctor\obj\Debug\Example_730_Ctor.exe
 D:\ Work\SkillBox\CodeSource\Theme_07\Example_730_Ctor\obj\Debug\Example_730_Ctor.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_730_Ctor\bin\Debug\Example_730_Ctor.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_730_Ctor\bin\Debug\Example_730_Ctor.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_730_Ctor\bin\Debug\Example_730_Ctor.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_730_Ctor\obj\Debug\Example_730_Ctor.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_730_Ctor\obj\Debug\Example_730_Ctor.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_730_Ctor\obj\Debug\Example_730_Ctor.pdb

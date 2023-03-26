@@ -1,0 +1,13 @@
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_813_ListWorker\bin\Debug\Example_813_ListWorker.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_813_ListWorker\bin\Debug\Example_813_ListWorker.exe
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_813_ListWorker\bin\Debug\Example_813_ListWorker.pdb
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_813_ListWorker\obj\Debug\Example_813_ListWorker.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_813_ListWorker\obj\Debug\Example_813_ListWorker.exe
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_813_ListWorker\obj\Debug\Example_813_ListWorker.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_813_ListWorker\bin\Debug\Example_813_ListWorker.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_813_ListWorker\bin\Debug\Example_813_ListWorker.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_813_ListWorker\bin\Debug\Example_813_ListWorker.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_813_ListWorker\obj\Debug\Example_813_ListWorker.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_813_ListWorker\obj\Debug\Example_813_ListWorker.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_813_ListWorker\obj\Debug\Example_813_ListWorker.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_813_ListWorker\obj\Debug\Example_813_ListWorker.pdb

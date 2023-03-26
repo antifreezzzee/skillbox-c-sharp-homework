@@ -10,3 +10,10 @@ C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_04\Example_005_MultiAr
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_04\Example_005_MultiArray\obj\Debug\Example_005_MultiArray.csproj.CoreCompileInputs.cache
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_04\Example_005_MultiArray\obj\Debug\Example_005_MultiArray.exe
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_04\Example_005_MultiArray\obj\Debug\Example_005_MultiArray.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_04\Example_005_MultiArray\bin\Debug\Example_005_MultiArray.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_04\Example_005_MultiArray\bin\Debug\Example_005_MultiArray.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_04\Example_005_MultiArray\bin\Debug\Example_005_MultiArray.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_04\Example_005_MultiArray\obj\Debug\Example_005_MultiArray.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_04\Example_005_MultiArray\obj\Debug\Example_005_MultiArray.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_04\Example_005_MultiArray\obj\Debug\Example_005_MultiArray.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_04\Example_005_MultiArray\obj\Debug\Example_005_MultiArray.pdb

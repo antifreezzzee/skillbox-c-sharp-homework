@@ -1,0 +1,6 @@
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_824_Queue\bin\Debug\Example_824_Queue.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_824_Queue\bin\Debug\Example_824_Queue.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_824_Queue\bin\Debug\Example_824_Queue.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_824_Queue\obj\Debug\Example_824_Queue.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_824_Queue\obj\Debug\Example_824_Queue.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_824_Queue\obj\Debug\Example_824_Queue.pdb

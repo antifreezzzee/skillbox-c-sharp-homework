@@ -4,3 +4,10 @@ C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_005\bin\Deb
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_005\obj\Debug\Example_005.csproj.CoreCompileInputs.cache
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_005\obj\Debug\Example_005.exe
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_005\obj\Debug\Example_005.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_005\bin\Debug\Example_005.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_005\bin\Debug\Example_005.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_005\bin\Debug\Example_005.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_005\obj\Debug\Example_005.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_005\obj\Debug\Example_005.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_005\obj\Debug\Example_005.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_005\obj\Debug\Example_005.pdb

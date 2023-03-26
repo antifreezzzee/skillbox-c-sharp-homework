@@ -5,3 +5,9 @@ D:\ Work\SkillBox\CodeSource\Theme_07\Example_710_Intro\obj\Debug\Example_710_I
 D:\ Work\SkillBox\CodeSource\Theme_07\Example_710_Intro\obj\Debug\Example_710_Intro.csproj.CoreCompileInputs.cache
 D:\ Work\SkillBox\CodeSource\Theme_07\Example_710_Intro\obj\Debug\Example_710_Intro.exe
 D:\ Work\SkillBox\CodeSource\Theme_07\Example_710_Intro\obj\Debug\Example_710_Intro.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_710_Intro\bin\Debug\Example_710_Intro.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_710_Intro\bin\Debug\Example_710_Intro.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_710_Intro\bin\Debug\Example_710_Intro.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_710_Intro\obj\Debug\Example_710_Intro.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_710_Intro\obj\Debug\Example_710_Intro.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_710_Intro\obj\Debug\Example_710_Intro.pdb

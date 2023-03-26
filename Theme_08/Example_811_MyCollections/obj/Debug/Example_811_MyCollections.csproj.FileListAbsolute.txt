@@ -1,0 +1,17 @@
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_811_MyCollections\bin\Debug\Example_811_MyCollections.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_811_MyCollections\bin\Debug\Example_811_MyCollections.exe
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_811_MyCollections\bin\Debug\Example_811_MyCollections.pdb
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_811_MyCollections\obj\Debug\Example_811_MyCollections.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_811_MyCollections\obj\Debug\Example_811_MyCollections.exe
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_811_MyCollections\obj\Debug\Example_811_MyCollections.pdb
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_811_MyCollections\obj\Debug\Example_811_MyCollections.csprojAssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_811_MyCollections\bin\Debug\Example_811_MyCollections.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_811_MyCollections\bin\Debug\Example_811_MyCollections.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_811_MyCollections\bin\Debug\Example_811_MyCollections.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_811_MyCollections\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_811_MyCollections\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_811_MyCollections\obj\Debug\Example_811_MyCollections.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_811_MyCollections\obj\Debug\Example_811_MyCollections.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_811_MyCollections\obj\Debug\Example_811_MyCollections.csproj.CopyComplete
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_811_MyCollections\obj\Debug\Example_811_MyCollections.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_811_MyCollections\obj\Debug\Example_811_MyCollections.pdb

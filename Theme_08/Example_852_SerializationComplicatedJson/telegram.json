@@ -1,0 +1,68 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 1880746,
+      "message": {
+        "message_id": 8836,
+        "from": {
+          "id": 2203105,
+          "is_bot": false,
+          "first_name": "С.K.",
+          "username": "sk",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 220310598,
+          "first_name": "С.K.",
+          "username": "sk",
+          "type": "private"
+        },
+        "date": 1558290810,
+        "text": "Тест 1"
+      }
+    },
+    {
+      "update_id": 188074847,
+      "message": {
+        "message_id": 8837,
+        "from": {
+          "id": 220310598,
+          "is_bot": false,
+          "first_name": "С.K.",
+          "username": "sk",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 220310598,
+          "first_name": "С.K.",
+          "username": "sk",
+          "type": "private"
+        },
+        "date": 1558290814,
+        "text": "Тест 2"
+      }
+    },
+    {
+      "update_id": 188074848,
+      "message": {
+        "message_id": 8838,
+        "from": {
+          "id": 220310598,
+          "is_bot": false,
+          "first_name": "С.K.",
+          "username": "sk",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 220310598,
+          "first_name": "С.K.",
+          "username": "sk",
+          "type": "private"
+        },
+        "date": 1558290819,
+        "text": "Тест 3"
+      }
+    }
+  ]
+}

@@ -5,3 +5,10 @@ D:\ Work\SkillBox\CodeSource\Theme_06\Example_651_StringBuilder\obj\Debug\Examp
 D:\ Work\SkillBox\CodeSource\Theme_06\Example_651_StringBuilder\obj\Debug\Example_651_StringBuilder.csproj.CoreCompileInputs.cache
 D:\ Work\SkillBox\CodeSource\Theme_06\Example_651_StringBuilder\obj\Debug\Example_651_StringBuilder.exe
 D:\ Work\SkillBox\CodeSource\Theme_06\Example_651_StringBuilder\obj\Debug\Example_651_StringBuilder.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_651_StringBuilder\bin\Debug\Example_651_StringBuilder.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_651_StringBuilder\bin\Debug\Example_651_StringBuilder.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_651_StringBuilder\bin\Debug\Example_651_StringBuilder.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_651_StringBuilder\obj\Debug\Example_651_StringBuilder.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_651_StringBuilder\obj\Debug\Example_651_StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_651_StringBuilder\obj\Debug\Example_651_StringBuilder.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_651_StringBuilder\obj\Debug\Example_651_StringBuilder.pdb

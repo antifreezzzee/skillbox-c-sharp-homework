@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Worker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FirstName>Satya</FirstName>
+  <LastName>Narayana</LastName>
+  <Position>Chief Executive Officer of Microsoft</Position>
+  <Department>Microsoft Corporation</Department>
+  <Salary>2294967295</Salary>
+</Worker>

@@ -5,3 +5,10 @@ D:\ Work\SkillBox\CodeSource\Theme_06\Example_621_String\obj\Debug\Example_621_
 D:\ Work\SkillBox\CodeSource\Theme_06\Example_621_String\obj\Debug\Example_621_String.csproj.CoreCompileInputs.cache
 D:\ Work\SkillBox\CodeSource\Theme_06\Example_621_String\obj\Debug\Example_621_String.exe
 D:\ Work\SkillBox\CodeSource\Theme_06\Example_621_String\obj\Debug\Example_621_String.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_621_String\bin\Debug\Example_621_String.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_621_String\bin\Debug\Example_621_String.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_621_String\bin\Debug\Example_621_String.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_621_String\obj\Debug\Example_621_String.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_621_String\obj\Debug\Example_621_String.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_621_String\obj\Debug\Example_621_String.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_621_String\obj\Debug\Example_621_String.pdb

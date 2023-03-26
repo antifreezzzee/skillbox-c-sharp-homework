@@ -1,0 +1,12 @@
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_823_Stack\bin\Debug\Example_823_Stack.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_823_Stack\bin\Debug\Example_823_Stack.exe
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_823_Stack\bin\Debug\Example_823_Stack.pdb
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_823_Stack\obj\Debug\Example_823_Stack.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_823_Stack\obj\Debug\Example_823_Stack.exe
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_823_Stack\obj\Debug\Example_823_Stack.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_823_Stack\bin\Debug\Example_823_Stack.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_823_Stack\bin\Debug\Example_823_Stack.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_823_Stack\bin\Debug\Example_823_Stack.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_823_Stack\obj\Debug\Example_823_Stack.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_823_Stack\obj\Debug\Example_823_Stack.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_823_Stack\obj\Debug\Example_823_Stack.pdb

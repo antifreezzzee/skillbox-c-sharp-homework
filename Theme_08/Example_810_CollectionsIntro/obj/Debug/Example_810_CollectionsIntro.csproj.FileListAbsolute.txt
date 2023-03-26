@@ -1,0 +1,14 @@
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_810_CollectionsIntro\bin\Debug\Example_810_CollectionsIntro.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_810_CollectionsIntro\bin\Debug\Example_810_CollectionsIntro.exe
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_810_CollectionsIntro\bin\Debug\Example_810_CollectionsIntro.pdb
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_810_CollectionsIntro\obj\Debug\Example_810_CollectionsIntro.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_810_CollectionsIntro\obj\Debug\Example_810_CollectionsIntro.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_810_CollectionsIntro\obj\Debug\Example_810_CollectionsIntro.exe
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_810_CollectionsIntro\obj\Debug\Example_810_CollectionsIntro.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_810_CollectionsIntro\bin\Debug\Example_810_CollectionsIntro.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_810_CollectionsIntro\bin\Debug\Example_810_CollectionsIntro.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_810_CollectionsIntro\bin\Debug\Example_810_CollectionsIntro.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_810_CollectionsIntro\obj\Debug\Example_810_CollectionsIntro.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_810_CollectionsIntro\obj\Debug\Example_810_CollectionsIntro.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_810_CollectionsIntro\obj\Debug\Example_810_CollectionsIntro.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_810_CollectionsIntro\obj\Debug\Example_810_CollectionsIntro.pdb

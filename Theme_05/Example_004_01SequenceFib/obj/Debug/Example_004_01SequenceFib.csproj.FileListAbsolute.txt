@@ -10,3 +10,10 @@ C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_004_01Seque
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_004_01SequenceFib\obj\Debug\Example_004_01SequenceFib.csproj.CoreCompileInputs.cache
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_004_01SequenceFib\obj\Debug\Example_004_01SequenceFib.exe
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_004_01SequenceFib\obj\Debug\Example_004_01SequenceFib.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_004_01SequenceFib\bin\Debug\Example_004_01SequenceFib.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_004_01SequenceFib\bin\Debug\Example_004_01SequenceFib.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_004_01SequenceFib\bin\Debug\Example_004_01SequenceFib.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_004_01SequenceFib\obj\Debug\Example_004_01SequenceFib.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_004_01SequenceFib\obj\Debug\Example_004_01SequenceFib.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_004_01SequenceFib\obj\Debug\Example_004_01SequenceFib.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_004_01SequenceFib\obj\Debug\Example_004_01SequenceFib.pdb

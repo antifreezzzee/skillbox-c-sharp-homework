@@ -12,3 +12,10 @@ C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_04\Example_0
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_04\Example_001_Reiteration\obj\Debug\Example_001_Reiteration.csproj.CoreCompileInputs.cache
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_04\Example_001_Reiteration\obj\Debug\Example_001_Reiteration.exe
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_04\Example_001_Reiteration\obj\Debug\Example_001_Reiteration.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_04\Example_001_Reiteration\bin\Debug\Example_001_Reiteration.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_04\Example_001_Reiteration\bin\Debug\Example_001_Reiteration.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_04\Example_001_Reiteration\bin\Debug\Example_001_Reiteration.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_04\Example_001_Reiteration\obj\Debug\Example_001_Reiteration.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_04\Example_001_Reiteration\obj\Debug\Example_001_Reiteration.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_04\Example_001_Reiteration\obj\Debug\Example_001_Reiteration.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_04\Example_001_Reiteration\obj\Debug\Example_001_Reiteration.pdb

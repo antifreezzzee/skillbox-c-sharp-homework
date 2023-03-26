@@ -1,0 +1,13 @@
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_822_Dictionary\bin\Debug\Example_822_Dictionary.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_822_Dictionary\bin\Debug\Example_822_Dictionary.exe
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_822_Dictionary\bin\Debug\Example_822_Dictionary.pdb
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_822_Dictionary\obj\Debug\Example_822_Dictionary.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_822_Dictionary\obj\Debug\Example_822_Dictionary.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_822_Dictionary\obj\Debug\Example_822_Dictionary.exe
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_822_Dictionary\obj\Debug\Example_822_Dictionary.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_822_Dictionary\bin\Debug\Example_822_Dictionary.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_822_Dictionary\bin\Debug\Example_822_Dictionary.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_822_Dictionary\bin\Debug\Example_822_Dictionary.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_822_Dictionary\obj\Debug\Example_822_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_822_Dictionary\obj\Debug\Example_822_Dictionary.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_822_Dictionary\obj\Debug\Example_822_Dictionary.pdb

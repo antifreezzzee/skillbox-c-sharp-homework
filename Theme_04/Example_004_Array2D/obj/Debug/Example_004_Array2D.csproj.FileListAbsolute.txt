@@ -11,3 +11,10 @@ C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_04\Example_004_Array2D
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_04\Example_004_Array2D\obj\Debug\Example_004_Array2D.csproj.CoreCompileInputs.cache
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_04\Example_004_Array2D\obj\Debug\Example_004_Array2D.exe
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_04\Example_004_Array2D\obj\Debug\Example_004_Array2D.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_04\Example_004_Array2D\bin\Debug\Example_004_Array2D.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_04\Example_004_Array2D\bin\Debug\Example_004_Array2D.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_04\Example_004_Array2D\bin\Debug\Example_004_Array2D.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_04\Example_004_Array2D\obj\Debug\Example_004_Array2D.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_04\Example_004_Array2D\obj\Debug\Example_004_Array2D.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_04\Example_004_Array2D\obj\Debug\Example_004_Array2D.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_04\Example_004_Array2D\obj\Debug\Example_004_Array2D.pdb

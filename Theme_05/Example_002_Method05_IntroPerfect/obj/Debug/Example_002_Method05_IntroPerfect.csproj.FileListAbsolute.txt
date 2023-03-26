@@ -10,3 +10,10 @@ C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_002_Method0
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_002_Method05_IntroPerfect\obj\Debug\Example_002_Method05_IntroPerfect.csproj.CoreCompileInputs.cache
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_002_Method05_IntroPerfect\obj\Debug\Example_002_Method05_IntroPerfect.exe
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_002_Method05_IntroPerfect\obj\Debug\Example_002_Method05_IntroPerfect.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_002_Method05_IntroPerfect\bin\Debug\Example_002_Method05_IntroPerfect.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_002_Method05_IntroPerfect\bin\Debug\Example_002_Method05_IntroPerfect.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_002_Method05_IntroPerfect\bin\Debug\Example_002_Method05_IntroPerfect.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_002_Method05_IntroPerfect\obj\Debug\Example_002_Method05_IntroPerfect.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_002_Method05_IntroPerfect\obj\Debug\Example_002_Method05_IntroPerfect.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_002_Method05_IntroPerfect\obj\Debug\Example_002_Method05_IntroPerfect.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_002_Method05_IntroPerfect\obj\Debug\Example_002_Method05_IntroPerfect.pdb

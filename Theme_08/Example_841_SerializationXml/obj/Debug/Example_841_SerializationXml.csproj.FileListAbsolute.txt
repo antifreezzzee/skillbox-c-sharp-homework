@@ -1,0 +1,13 @@
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_841_SerializationXml\bin\Debug\Example_841_SerializationXml.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_841_SerializationXml\bin\Debug\Example_841_SerializationXml.exe
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_841_SerializationXml\bin\Debug\Example_841_SerializationXml.pdb
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_841_SerializationXml\obj\Debug\Example_841_SerializationXml.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_841_SerializationXml\obj\Debug\Example_841_SerializationXml.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_841_SerializationXml\obj\Debug\Example_841_SerializationXml.exe
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_841_SerializationXml\obj\Debug\Example_841_SerializationXml.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_841_SerializationXml\bin\Debug\Example_841_SerializationXml.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_841_SerializationXml\bin\Debug\Example_841_SerializationXml.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_841_SerializationXml\bin\Debug\Example_841_SerializationXml.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_841_SerializationXml\obj\Debug\Example_841_SerializationXml.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_841_SerializationXml\obj\Debug\Example_841_SerializationXml.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_841_SerializationXml\obj\Debug\Example_841_SerializationXml.pdb

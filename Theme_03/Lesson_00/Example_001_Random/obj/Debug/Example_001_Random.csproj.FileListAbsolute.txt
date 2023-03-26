@@ -12,3 +12,10 @@ C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_00\Example_0
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_00\Example_001_Random\obj\Debug\Example_001_Random.csproj.CoreCompileInputs.cache
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_00\Example_001_Random\obj\Debug\Example_001_Random.exe
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_00\Example_001_Random\obj\Debug\Example_001_Random.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_00\Example_001_Random\bin\Debug\Example_001_Random.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_00\Example_001_Random\bin\Debug\Example_001_Random.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_00\Example_001_Random\bin\Debug\Example_001_Random.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_00\Example_001_Random\obj\Debug\Example_001_Random.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_00\Example_001_Random\obj\Debug\Example_001_Random.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_00\Example_001_Random\obj\Debug\Example_001_Random.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_00\Example_001_Random\obj\Debug\Example_001_Random.pdb

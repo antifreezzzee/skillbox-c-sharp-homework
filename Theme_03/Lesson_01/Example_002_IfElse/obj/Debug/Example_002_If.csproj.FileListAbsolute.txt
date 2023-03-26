@@ -12,3 +12,10 @@ C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_01\Example_0
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_01\Example_002_IfElse\obj\Debug\Example_002_If.csproj.CoreCompileInputs.cache
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_01\Example_002_IfElse\obj\Debug\Example_002_If.exe
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_01\Example_002_IfElse\obj\Debug\Example_002_If.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_01\Example_002_IfElse\bin\Debug\Example_002_If.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_01\Example_002_IfElse\bin\Debug\Example_002_If.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_01\Example_002_IfElse\bin\Debug\Example_002_If.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_01\Example_002_IfElse\obj\Debug\Example_002_If.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_01\Example_002_IfElse\obj\Debug\Example_002_If.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_01\Example_002_IfElse\obj\Debug\Example_002_If.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_01\Example_002_IfElse\obj\Debug\Example_002_If.pdb

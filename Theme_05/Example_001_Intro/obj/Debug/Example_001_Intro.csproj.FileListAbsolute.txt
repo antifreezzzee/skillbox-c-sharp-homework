@@ -11,3 +11,10 @@ C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_001_Intro\b
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_001_Intro\obj\Debug\Example_001_Intro.csproj.CoreCompileInputs.cache
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_001_Intro\obj\Debug\Example_001_Intro.exe
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_001_Intro\obj\Debug\Example_001_Intro.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_001_Intro\bin\Debug\Example_001_Intro.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_001_Intro\bin\Debug\Example_001_Intro.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_001_Intro\bin\Debug\Example_001_Intro.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_001_Intro\obj\Debug\Example_001_Intro.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_001_Intro\obj\Debug\Example_001_Intro.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_001_Intro\obj\Debug\Example_001_Intro.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_001_Intro\obj\Debug\Example_001_Intro.pdb

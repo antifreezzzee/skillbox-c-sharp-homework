@@ -1,0 +1,7 @@
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_610_Intro\bin\Debug\Example_610_Intro.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_610_Intro\bin\Debug\Example_610_Intro.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_610_Intro\bin\Debug\Example_610_Intro.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_610_Intro\obj\Debug\Example_610_Intro.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_610_Intro\obj\Debug\Example_610_Intro.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_610_Intro\obj\Debug\Example_610_Intro.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_610_Intro\obj\Debug\Example_610_Intro.pdb

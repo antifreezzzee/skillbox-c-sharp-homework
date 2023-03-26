@@ -12,3 +12,10 @@ C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_02\Example_0
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_02\Example_001_TernaryOperator\obj\Debug\Example_001_TernaryOperator.csproj.CoreCompileInputs.cache
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_02\Example_001_TernaryOperator\obj\Debug\Example_001_TernaryOperator.exe
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_03\Lesson_02\Example_001_TernaryOperator\obj\Debug\Example_001_TernaryOperator.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_02\Example_001_TernaryOperator\bin\Debug\Example_001_TernaryOperator.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_02\Example_001_TernaryOperator\bin\Debug\Example_001_TernaryOperator.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_02\Example_001_TernaryOperator\bin\Debug\Example_001_TernaryOperator.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_02\Example_001_TernaryOperator\obj\Debug\Example_001_TernaryOperator.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_02\Example_001_TernaryOperator\obj\Debug\Example_001_TernaryOperator.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_02\Example_001_TernaryOperator\obj\Debug\Example_001_TernaryOperator.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_03\Lesson_02\Example_001_TernaryOperator\obj\Debug\Example_001_TernaryOperator.pdb

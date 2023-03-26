@@ -1,0 +1,6 @@
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_831_SerializationInto\bin\Debug\Example_831_SerializationInto.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_831_SerializationInto\bin\Debug\Example_831_SerializationInto.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_831_SerializationInto\bin\Debug\Example_831_SerializationInto.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_831_SerializationInto\obj\Debug\Example_831_SerializationInto.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_831_SerializationInto\obj\Debug\Example_831_SerializationInto.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_831_SerializationInto\obj\Debug\Example_831_SerializationInto.pdb

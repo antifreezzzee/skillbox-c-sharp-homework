@@ -1,1 +1,3 @@
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_001_IntroPerfect\obj\Debug\Example_001_IntroPerfect.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_001_IntroPerfect\obj\Debug\Example_001_IntroPerfect.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_001_IntroPerfect\obj\Debug\Example_001_IntroPerfect.csproj.CoreCompileInputs.cache

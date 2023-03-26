@@ -5,3 +5,9 @@ D:\ Work\SkillBox\CodeSource\Theme_07\Example_732_Indexer\bin\Debug\Example_732
 D:\ Work\SkillBox\CodeSource\Theme_07\Example_732_Indexer\bin\Debug\Example_732_Indexer.pdb
 D:\ Work\SkillBox\CodeSource\Theme_07\Example_732_Indexer\obj\Debug\Example_732_Indexer.exe
 D:\ Work\SkillBox\CodeSource\Theme_07\Example_732_Indexer\obj\Debug\Example_732_Indexer.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_732_Indexer\bin\Debug\Example_732_Indexer.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_732_Indexer\bin\Debug\Example_732_Indexer.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_732_Indexer\bin\Debug\Example_732_Indexer.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_732_Indexer\obj\Debug\Example_732_Indexer.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_732_Indexer\obj\Debug\Example_732_Indexer.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_07\Example_732_Indexer\obj\Debug\Example_732_Indexer.pdb

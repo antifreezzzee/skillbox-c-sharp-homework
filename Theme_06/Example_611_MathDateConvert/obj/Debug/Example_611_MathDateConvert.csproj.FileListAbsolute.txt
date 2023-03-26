@@ -5,3 +5,10 @@ D:\ Work\SkillBox\CodeSource\Theme_06\Example_611_MathDateConvert\obj\Debug\Exa
 D:\ Work\SkillBox\CodeSource\Theme_06\Example_611_MathDateConvert\obj\Debug\Example_611_MathDateConvert.exe
 D:\ Work\SkillBox\CodeSource\Theme_06\Example_611_MathDateConvert\obj\Debug\Example_611_MathDateConvert.pdb
 D:\ Work\SkillBox\CodeSource\Theme_06\Example_611_MathDateConvert\obj\Debug\Example_611_MathDateConvert.csprojAssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_611_MathDateConvert\bin\Debug\Example_611_MathDateConvert.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_611_MathDateConvert\bin\Debug\Example_611_MathDateConvert.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_611_MathDateConvert\bin\Debug\Example_611_MathDateConvert.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_611_MathDateConvert\obj\Debug\Example_611_MathDateConvert.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_611_MathDateConvert\obj\Debug\Example_611_MathDateConvert.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_611_MathDateConvert\obj\Debug\Example_611_MathDateConvert.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_611_MathDateConvert\obj\Debug\Example_611_MathDateConvert.pdb

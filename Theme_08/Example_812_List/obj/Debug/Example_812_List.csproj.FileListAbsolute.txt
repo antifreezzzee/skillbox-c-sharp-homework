@@ -1,0 +1,13 @@
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_812_List\bin\Debug\Example_812_List.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_812_List\bin\Debug\Example_812_List.exe
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_812_List\bin\Debug\Example_812_List.pdb
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_812_List\obj\Debug\Example_812_List.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_812_List\obj\Debug\Example_812_List.exe
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_812_List\obj\Debug\Example_812_List.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_812_List\bin\Debug\Example_812_List.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_812_List\bin\Debug\Example_812_List.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_812_List\bin\Debug\Example_812_List.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_812_List\obj\Debug\Example_812_List.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_812_List\obj\Debug\Example_812_List.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_812_List\obj\Debug\Example_812_List.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_812_List\obj\Debug\Example_812_List.pdb

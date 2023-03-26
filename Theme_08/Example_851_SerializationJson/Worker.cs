@@ -1,0 +1,117 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Example_851_SerializationJson
+{
+    public class Worker
+    {
+        #region Конструкторы
+
+        public Worker()
+        {
+
+        }
+
+        /// <summary>
+        /// Создание сотрудника
+        /// </summary>
+        /// <param name="FirstName">Имя</param>
+        /// <param name="LastName">Фамилия</param>
+        /// <param name="Position">Должность</param>
+        /// <param name="Department">Отдел</param>
+        /// <param name="Salary">Оплата труда</param>
+        public Worker(string FirstName, string LastName, string Position, uint Salary, string Department)
+        {
+            this.firstName = FirstName;
+            this.lastName = LastName;
+            this.position = Position;
+            this.department = Department;
+            this.salary = Salary;
+        }
+
+        #endregion
+
+        #region Методы
+
+        public string Print()
+        {
+            return $"{this.firstName}\n{this.lastName}\n{this.department}\n{this.position}\n{this.salary,10}";
+        }
+
+        #endregion
+
+        #region Свойства
+
+        /// <summary>
+        /// Имя
+        /// </summary>
+        public string FirstName { get { return this.firstName; } set { this.firstName = value; } }
+
+        /// <summary>
+        /// Фамилия
+        /// </summary>
+        public string LastName { get { return this.lastName; } set { this.lastName = value; } }
+
+        /// <summary>
+        /// Должность
+        /// </summary>
+        public string Position { get { return this.position; } set { this.position = value; } }
+
+        /// <summary>
+        /// Отдел
+        /// </summary>
+        public string Department { get { return this.department; } set { this.department = value; } }
+
+        /// <summary>
+        /// Оплата труда
+        /// </summary>
+        public uint Salary { get { return this.salary; } set { this.salary = value; } }
+
+        /// <summary>
+        /// Почасовая оплата
+        /// </summary>
+        public double HourRate
+        {
+            get
+            {
+                byte workingDays = 25; // Рабочих дней в месяце
+                byte workingHours = 8; // Рабочих часов в день
+                return ((double)Salary) / workingDays / workingHours;
+            }
+        }
+
+        #endregion
+
+        #region Поля
+
+        /// <summary>
+        /// Поле "Имя"
+        /// </summary>
+        private string firstName;
+
+        /// <summary>
+        /// Поле "Фамилия"
+        /// </summary>
+        private string lastName;
+
+        /// <summary>
+        /// Поле "Должность"
+        /// </summary>
+        private string position;
+
+        /// <summary>
+        /// Поле "Отдел"
+        /// </summary>
+        private string department;
+
+        /// <summary>
+        /// Поле "Оплата труда"
+        /// </summary>
+        private uint salary;
+
+        #endregion
+    }
+}

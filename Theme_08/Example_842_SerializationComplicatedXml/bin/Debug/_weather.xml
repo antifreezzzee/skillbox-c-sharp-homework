@@ -1,0 +1,38 @@
+<MMWEATHER>
+	<REPORT type="frc3">
+		<TOWN index="37" sname="Москва" latitude="56" longitude="38">
+			<FORECAST day="22" month="09" year="2051" hour="21" tod="3" predict="0" weekday="1">
+				<PHENOMENA cloudiness="0" precipitation="10" rpower="0" spower="0"/>
+				<PRESSURE max="766" min="764"/>
+				<TEMPERATURE max="17" min="10"/>
+				<WIND min="2" max="6" direction="2"/>
+				<RELWET max="50" min="36"/>
+				<HEAT min="8" max="8"/>
+			</FORECAST>
+			<FORECAST day="23" month="09" year="2051" hour="03" tod="0" predict="0" weekday="2">
+			<PHENOMENA cloudiness="0" precipitation="10" rpower="0" spower="0"/>
+				<PRESSURE max="767" min="766"/>
+				<TEMPERATURE max="10" min="7"/>
+				<WIND min="1" max="2" direction="1"/>
+				<RELWET max="60" min="50"/>
+				<HEAT min="6" max="6"/>
+			</FORECAST>
+			<FORECAST day="23" month="09" year="2051" hour="09" tod="1" predict="0" weekday="2">
+				<PHENOMENA cloudiness="0" precipitation="10" rpower="0" spower="0"/>
+				<PRESSURE max="767" min="767"/>
+				<TEMPERATURE max="14" min="7"/>
+				<WIND min="0" max="1" direction="7"/>
+				<RELWET max="59" min="38"/>
+				<HEAT min="7" max="7"/>
+			</FORECAST>
+			<FORECAST day="23" month="09" year="2051" hour="15" tod="2" predict="0" weekday="2">
+				<PHENOMENA cloudiness="3" precipitation="10" rpower="0" spower="0"/>
+				<PRESSURE max="767" min="765"/>
+				<TEMPERATURE max="17" min="15"/>
+				<WIND min="1" max="3" direction="0"/>
+				<RELWET max="36" min="33"/>
+				<HEAT min="16" max="16"/>
+			</FORECAST>
+		</TOWN>
+	</REPORT>
+</MMWEATHER>

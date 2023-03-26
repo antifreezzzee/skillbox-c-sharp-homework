@@ -12,3 +12,10 @@ C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_002_Method0
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_002_Method03\obj\Debug\Example_002_Method03.csproj.CoreCompileInputs.cache
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_002_Method03\obj\Debug\Example_002_Method03.exe
 C:\Users\Serega\Documents\skillbox-c-sharp-homework\Theme_05\Example_002_Method03\obj\Debug\Example_002_Method03.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_002_Method03\bin\Debug\Example_002_Method03.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_002_Method03\bin\Debug\Example_002_Method03.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_002_Method03\bin\Debug\Example_002_Method03.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_002_Method03\obj\Debug\Example_002_Method03.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_002_Method03\obj\Debug\Example_002_Method03.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_002_Method03\obj\Debug\Example_002_Method03.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_05\Example_002_Method03\obj\Debug\Example_002_Method03.pdb

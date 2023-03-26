@@ -1,0 +1,13 @@
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_821_OtherCollections\bin\Debug\Example_821_OtherCollections.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_821_OtherCollections\bin\Debug\Example_821_OtherCollections.exe
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_821_OtherCollections\bin\Debug\Example_821_OtherCollections.pdb
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_821_OtherCollections\obj\Debug\Example_821_OtherCollections.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_821_OtherCollections\obj\Debug\Example_821_OtherCollections.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_821_OtherCollections\obj\Debug\Example_821_OtherCollections.exe
+D:\ Work\SkillBox\CodeSource\Theme_08\Example_821_OtherCollections\obj\Debug\Example_821_OtherCollections.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_821_OtherCollections\bin\Debug\Example_821_OtherCollections.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_821_OtherCollections\bin\Debug\Example_821_OtherCollections.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_821_OtherCollections\bin\Debug\Example_821_OtherCollections.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_821_OtherCollections\obj\Debug\Example_821_OtherCollections.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_821_OtherCollections\obj\Debug\Example_821_OtherCollections.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Example_821_OtherCollections\obj\Debug\Example_821_OtherCollections.pdb

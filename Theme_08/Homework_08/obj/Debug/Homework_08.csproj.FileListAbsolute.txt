@@ -1,0 +1,8 @@
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Homework_08\bin\Debug\Homework_08.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Homework_08\bin\Debug\Homework_08.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Homework_08\bin\Debug\Homework_08.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Homework_08\obj\Debug\Homework_08.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Homework_08\obj\Debug\Homework_08.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Homework_08\obj\Debug\Homework_08.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Homework_08\obj\Debug\Homework_08.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_08\Homework_08\obj\Debug\Homework_08.csproj.SuggestedBindingRedirects.cache

@@ -5,3 +5,10 @@ D:\ Work\SkillBox\CodeSource\Theme_06\Example_622_Char\obj\Debug\Example_622_Ch
 D:\ Work\SkillBox\CodeSource\Theme_06\Example_622_Char\obj\Debug\Example_622_Char.exe
 D:\ Work\SkillBox\CodeSource\Theme_06\Example_622_Char\obj\Debug\Example_622_Char.pdb
 D:\ Work\SkillBox\CodeSource\Theme_06\Example_622_Char\obj\Debug\Example_622_Char.csprojAssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_622_Char\bin\Debug\Example_622_Char.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_622_Char\bin\Debug\Example_622_Char.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_622_Char\bin\Debug\Example_622_Char.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_622_Char\obj\Debug\Example_622_Char.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_622_Char\obj\Debug\Example_622_Char.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_622_Char\obj\Debug\Example_622_Char.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_622_Char\obj\Debug\Example_622_Char.pdb

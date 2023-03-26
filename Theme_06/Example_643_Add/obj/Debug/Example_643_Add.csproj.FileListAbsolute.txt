@@ -4,3 +4,10 @@ D:\ Work\SkillBox\CodeSource\Theme_06\Example_643_Add\bin\Debug\Example_643_Add
 D:\ Work\SkillBox\CodeSource\Theme_06\Example_643_Add\obj\Debug\Example_643_Add.csproj.CoreCompileInputs.cache
 D:\ Work\SkillBox\CodeSource\Theme_06\Example_643_Add\obj\Debug\Example_643_Add.exe
 D:\ Work\SkillBox\CodeSource\Theme_06\Example_643_Add\obj\Debug\Example_643_Add.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_643_Add\bin\Debug\Example_643_Add.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_643_Add\bin\Debug\Example_643_Add.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_643_Add\bin\Debug\Example_643_Add.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_643_Add\obj\Debug\Example_643_Add.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_643_Add\obj\Debug\Example_643_Add.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_643_Add\obj\Debug\Example_643_Add.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_643_Add\obj\Debug\Example_643_Add.pdb

@@ -5,3 +5,10 @@ D:\ Work\SkillBox\CodeSource\Theme_06\Example_652_StringReaderWriter\obj\Debug\
 D:\ Work\SkillBox\CodeSource\Theme_06\Example_652_StringReaderWriter\obj\Debug\Example_652_StringReaderWriter.csproj.CoreCompileInputs.cache
 D:\ Work\SkillBox\CodeSource\Theme_06\Example_652_StringReaderWriter\obj\Debug\Example_652_StringReaderWriter.exe
 D:\ Work\SkillBox\CodeSource\Theme_06\Example_652_StringReaderWriter\obj\Debug\Example_652_StringReaderWriter.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_652_StringReaderWriter\bin\Debug\Example_652_StringReaderWriter.exe.config
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_652_StringReaderWriter\bin\Debug\Example_652_StringReaderWriter.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_652_StringReaderWriter\bin\Debug\Example_652_StringReaderWriter.pdb
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_652_StringReaderWriter\obj\Debug\Example_652_StringReaderWriter.csproj.AssemblyReference.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_652_StringReaderWriter\obj\Debug\Example_652_StringReaderWriter.csproj.CoreCompileInputs.cache
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_652_StringReaderWriter\obj\Debug\Example_652_StringReaderWriter.exe
+C:\Users\Serega\RiderProjects\skillbox-c-sharp-homework\Theme_06\Example_652_StringReaderWriter\obj\Debug\Example_652_StringReaderWriter.pdb
